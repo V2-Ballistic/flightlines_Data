@@ -1,0 +1,101 @@
+name: Fetch Aviation Docs (metadata only)
+
+# Run on demand or weekly (Sunday 02:00 UTC)
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run — discover links but do NOT download files"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+      group_filter:
+        description: "Only process sources whose group contains this string (leave blank for all)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 2 * * 0"  # Every Sunday at 02:00 UTC
+
+# Prevent concurrent runs; cancel any in-progress run when a new one starts
+concurrency:
+  group: fetch-docs
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    name: Crawl sources and commit artifacts
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build fetch arguments
+        id: args
+        run: |
+          EXTRA_ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.group_filter }}" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --group '${{ github.event.inputs.group_filter }}'"
+          fi
+          echo "extra_args=$EXTRA_ARGS" >> "$GITHUB_OUTPUT"
+
+      - name: Run crawler
+        run: |
+          python -m fetcher \
+            --sources sources.yaml \
+            --artifacts-dir artifacts \
+            --downloads-dir ./_downloads \
+            --sleep 2.0 \
+            --max-file-mb 200 \
+            ${{ steps.args.outputs.extra_args }}
+
+      # _downloads/ is in .gitignore — only artifacts/** is staged
+      - name: Check for artifact changes
+        id: changes
+        run: |
+          git add artifacts/ sources.yaml
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push artifact updates
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(artifacts): update fetch metadata [skip ci]"
+          git push
+
+      - name: No changes — nothing to commit
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "No artifact changes detected; skipping commit."
+
+      # Upload the run log as a workflow artifact for debugging even on dry runs
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-run-log-${{ github.run_id }}
+          path: artifacts/_run.log
+          retention-days: 30
