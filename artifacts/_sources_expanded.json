@@ -1,0 +1,452 @@
+[
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25)",
+    "manual_type": "Pilot Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-1B",
+    "manual_type": "Weight & Balance Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/weight_balance_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-15B",
+    "manual_type": "Instrument Flying Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-3C",
+    "manual_type": "Airplane Flying Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-30A General AMT Handbook",
+    "manual_type": "Aviation Maintenance Technician Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aircraft/amt_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-31B",
+    "manual_type": "Aviation Maintenance Technician Handbook - Airframe",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aircraft/amt_airframe_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-32B",
+    "manual_type": "Aviation Maintenance Technician Handbook - Powerplant",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aircraft/amt_powerplant_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Rotorcraft Flying Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/rotorcraft_flying_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Balloon Flying Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/balloon_flying_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Glider Flying Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/glider_flying_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "FAA-H-8083-2",
+    "manual_type": "Risk Management Handbook",
+    "group": "FAA Handbooks",
+    "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management_handbook"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "AC 43.13-1B Acceptable Methods, Techniques, and Practices",
+    "manual_type": "Advisory Circular",
+    "group": "FAA Advisory Circulars",
+    "url": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/99861"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Form 337, 8050-3, 8100-2, 8130-3, etc.",
+    "manual_type": "FAA Forms",
+    "group": "FAA Forms",
+    "url": "https://www.faa.gov/forms"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Maintenance, Preventive Maintenance, Rebuilding, and Alteration",
+    "manual_type": "FAR Part 43",
+    "group": "FAA Regulations",
+    "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "General Operating and Flight Rules",
+    "manual_type": "FAR Part 91",
+    "group": "FAA Regulations",
+    "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Free PDFs — SBs, SLs, SIs, and construction manual revisions for RV series",
+    "manual_type": "Service Information",
+    "group": "Van's Aircraft",
+    "url": "https://www.vansaircraft.com/service-information-and-revisions/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Service Instructions, Service Bulletins, Overhaul Manuals",
+    "manual_type": "Engine Publication",
+    "group": "Lycoming",
+    "url": "https://www.lycoming.com/contact/knowledge-base/publications"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Continental IO/TSIO engine manuals and service documents",
+    "manual_type": "Technical Publication",
+    "group": "Continental Aerospace",
+    "url": "https://www.continental.aero/support/technical-publications.aspx"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Service Document",
+    "group": "Continental Aerospace",
+    "url": "https://www.continental.aero/support/service-documents.aspx"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Rotax 912/914/915/916 series operator and maintenance manuals",
+    "manual_type": "Engine Manual",
+    "group": "Rotax",
+    "url": "https://www.flyrotax.com/services/technical-documentation.html"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Community mirror of Rotax documentation",
+    "manual_type": "Engine Manual",
+    "group": "Rotax",
+    "url": "https://www.rotax-owner.com/en/support-topmenu/engine-manuals"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Installation, maintenance and overhaul manuals for Hartzell props",
+    "manual_type": "Propeller Manual",
+    "group": "Hartzell Propeller",
+    "url": "https://hartzellprop.com/support/manuals/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Service Document",
+    "group": "Hartzell Propeller",
+    "url": "https://hartzellprop.com/support/service-documents/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Propeller Manual",
+    "group": "Sensenich Propeller",
+    "url": "https://sensenich.com/aircraft/manuals-bulletins/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Installation, pilot's, and maintenance manuals for G1000, GTN, GNS, GFC series",
+    "manual_type": "Avionics Manual",
+    "group": "Garmin Aviation",
+    "url": "https://www.garmin.com/en-US/aviation/support/documentation/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "SkyView, Dynon D-series, and autopilot documentation",
+    "manual_type": "Avionics Manual",
+    "group": "Dynon Avionics",
+    "url": "https://dynonavionics.com/docs/documentation.html"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Horizon and Sport EFIS documentation",
+    "manual_type": "Avionics Manual",
+    "group": "GRT Avionics",
+    "url": "https://grtavionics.com/documentation/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Avionics Manual",
+    "group": "MGL Avionics",
+    "url": "https://mglavionics.com/index_files/Documentation.html"
+  },
+  {
+    "mode": "page",
+    "max_depth": 2,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Legacy out-of-production Cessna maintenance manuals, POHs, IPCs",
+    "manual_type": "AMM / Service Manual",
+    "group": "MrWebman - Cessna Legacy",
+    "url": "https://www.mrwebman.com/aviation/cessna/manuals/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 2,
+    "same_host_only": false,
+    "login_required": false,
+    "notes": "Wiring diagrams and schematics for legacy Cessna aircraft",
+    "manual_type": "Wiring Diagrams / IPC",
+    "group": "Schematics Unlimited - Cessna",
+    "url": "https://www.schematicsunlimited.com/c/cessna"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Online IPC for Ercoupe, Stinson, Swift, Luscombe, Mooney",
+    "manual_type": "Parts Catalog",
+    "group": "Univair",
+    "url": "https://www.univair.com/parts-catalogs/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "AOPA ARROW required-documents explainer",
+    "manual_type": "Pilot Resource",
+    "group": "AOPA",
+    "url": "https://www.aopa.org/training-and-safety/active-pilots/pic-archive/pilot-and-aircraft-logs/arrow"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "EAA ADS-B installation and compliance resources",
+    "manual_type": "ADS-B Resource",
+    "group": "EAA",
+    "url": "https://www.eaa.org/eaa/aircraft-building/builderresources/avionics/ads-b"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "ADS-B Guidance",
+    "group": "FAA ADS-B",
+    "url": "https://www.faa.gov/air_traffic/technology/equipadsb/installation"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Community archive of aviation manuals",
+    "manual_type": "Various",
+    "group": "Avialogs Archive",
+    "url": "https://www.avialogs.com/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": false,
+    "login_required": false,
+    "notes": "Digitized vintage aviation manuals",
+    "manual_type": "Various",
+    "group": "Internet Archive",
+    "url": "https://archive.org/details/aviationmanuals"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": true,
+    "notes": "Current production Cessna AMMs require dealer/repair-station login",
+    "manual_type": "AMM / IPC / Service Manuals",
+    "group": "Cessna (Textron)",
+    "url": "https://support.cessna.com/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": true,
+    "notes": "Cirrus technical publications require registration",
+    "manual_type": "AMM / IPC / Service Manuals",
+    "group": "Cirrus",
+    "url": "https://techpubs.cirrusaircraft.com/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": true,
+    "notes": "Full AMMs via Veryon; some SBs publicly accessible",
+    "manual_type": "Technical Publications",
+    "group": "Piper",
+    "url": "https://www.piper.com/technical-publications/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 0,
+    "same_host_only": true,
+    "login_required": true,
+    "notes": "Dealer login required for McCauley propeller manuals",
+    "manual_type": "Propeller Manual",
+    "group": "McCauley Propeller",
+    "url": "https://www.mccauley.textron.com/pubs"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Propeller Manual",
+    "group": "MT-Propeller",
+    "url": "https://www.mt-propeller.com/en/mt_propeller/technics.htm"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": true,
+    "notes": "Some documents publicly available; others require login",
+    "manual_type": "Avionics Manual",
+    "group": "Avidyne",
+    "url": "https://www.avidyne.com/support/documents/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "S-TEC and Genesys autopilot installation and maintenance manuals",
+    "manual_type": "Autopilot Manual",
+    "group": "Genesys Aerosystems",
+    "url": "https://genesys-aerosystems.com/support/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "",
+    "manual_type": "Engine Manual",
+    "group": "Jabiru",
+    "url": "https://jabiru.net.au/service/manuals/"
+  },
+  {
+    "mode": "page",
+    "max_depth": 1,
+    "same_host_only": true,
+    "login_required": false,
+    "notes": "Master Minimum Equipment Lists for certificated aircraft",
+    "manual_type": "MMEL",
+    "group": "FAA FSIMS",
+    "url": "https://fsims.faa.gov/PICResults.aspx?mode=Publication&doctype=MMEL"
+  }
+]
