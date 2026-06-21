@@ -2783,16 +2783,16 @@
     "final_url": "https://www.faa.gov/sites/faa.gov/files/data_research/research/NASA_Controller_Fatigue_Assessment_Report.pdf",
     "discovered_from": "https://www.faa.gov/data_research/research/"
   },
-  "https://www.faa.gov/data_research/library/IHS-Document-Center-Instructions.pdf": {
-    "sha256": "3bd7204a5f649b41111a1a24261494fc5ecb97a63acfbc2ad74b0bcdf3a9fcba",
-    "size": 101416,
+  "https://www.faa.gov/data_research/library/AccurisDocumentRequestInstructions.pdf": {
+    "sha256": "80a5380d0be326cdd13c93571ff23f61893d2beaff2e13a9733f32b5cb96f391",
+    "size": 249216,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/IHS-Document-Center-Instructions.pdf",
-    "filename": "IHS-Document-Center-Instructions.pdf",
+    "local_path": "_downloads/FAA Handbooks/AccurisDocumentRequestInstructions.pdf",
+    "filename": "AccurisDocumentRequestInstructions.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/data_research/library/IHS-Document-Center-Instructions.pdf",
+    "final_url": "https://www.faa.gov/data_research/library/AccurisDocumentRequestInstructions.pdf",
     "discovered_from": "https://www.faa.gov/data_research/library"
   },
   "https://www.faa.gov/data_research/library/SAE-ARINC-Mobilus-Institutional-Login-Instructions.pdf": {
@@ -3033,6 +3033,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/sites/faa.gov/files/2022-04/National_Space_Policy.pdf",
+    "discovered_from": "https://www.faa.gov/space/legislation_regulation_guidance/"
+  },
+  "https://www.faa.gov/space/legislation_regulation_guidance/waiver-practice-policy-statement.pdf": {
+    "sha256": "047d51435066706d1c7cdc34a59768681dc0ef881d1b26801ff5017022b9c2b5",
+    "size": 92089,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/waiver-practice-policy-statement.pdf",
+    "filename": "waiver-practice-policy-statement.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/space/legislation_regulation_guidance/waiver-practice-policy-statement.pdf",
     "discovered_from": "https://www.faa.gov/space/legislation_regulation_guidance/"
   },
   "https://www.faa.gov/sites/faa.gov/files/space/legislation_regulation_guidance/Ground_Safety_Policy.pdf": {
@@ -7860,8 +7872,8 @@
     "discovered_from": "https://hartzellprop.com/services/product-support-library/manuals/hartzell-owners-manuals-english/"
   },
   "https://hartzellprop.com/MANUALS/147-0000-A.pdf": {
-    "sha256": "8ae85b6ec1c7b9dea8bed6fb76a63c1712aec6df013172064177f2ef22d6bc0c",
-    "size": 2832593,
+    "sha256": "88f6ece2d610fb5b22d27275231ff7bb54c6d8443fff0dff9ec50f744e75a744",
+    "size": 2838173,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/147-0000-A.pdf",
@@ -7980,8 +7992,8 @@
     "discovered_from": "https://hartzellprop.com/services/product-support-library/manuals/hartzell-owners-manuals-english/"
   },
   "https://hartzellprop.com/MANUALS/486-0000-A.pdf": {
-    "sha256": "46d1dda02f7b394334eb242e7f8a8f02b5c3ea3a5f6e6dd4cd9ca5e033e09cc3",
-    "size": 2024022,
+    "sha256": "b1bb432bc878547b5d3f95837b744a173cd7a7570174bcc357ebccbed2963d55",
+    "size": 2108401,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/486-0000-A.pdf",
@@ -8160,8 +8172,8 @@
     "discovered_from": "https://hartzellprop.com//services/product-support-library/manuals/application-guide/"
   },
   "https://hartzellprop.com/MANUALS/Revision-Status-Sheet.pdf": {
-    "sha256": "9d7d905c7f77ecc80154480b1499adddb3ee701db17e75ce0b164f6326b104b0",
-    "size": 138422,
+    "sha256": "6f2aade5471e634db37e516ca7eb75b856db21a55dc565528ce75a53c4967904",
+    "size": 134628,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Revision-Status-Sheet.pdf",
@@ -11699,125 +11711,17 @@
     "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_3a_Abnormal_Procedures.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
   },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf": {
-    "sha256": "446423ac382675b98f6a554ed3e16d451da4a0f9dc5df68f1147b72c59126363",
-    "size": 118179468,
+  "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_4_Normal_Procedures.pdf": {
+    "sha256": "a5748f7c97cb9e9a88b1f0d25912113c1b8cdc6eda15720c61ddd80e589409e1",
+    "size": 633203,
     "group": "MrWebman - Cessna Legacy",
     "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_CP_IXX_Audio_Panels.pdf",
-    "filename": "Narco_CP_IXX_Audio_Panels.pdf",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/raytheon-1900D-Section_4_Normal_Procedures.pdf",
+    "filename": "raytheon-1900D-Section_4_Normal_Procedures.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_195.pdf": {
-    "sha256": "6f5b1fc0daf487da314eb2a7d5ad8fbd734a532fdb465150a0ab2967b673b6ab",
-    "size": 67080701,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_195.pdf",
-    "filename": "Narco_DME_195.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_195.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_890.pdf": {
-    "sha256": "6d41c769423cc05baeb9c51d1a90753760dfe7b5aff31764ac67cbdf870dd7e9",
-    "size": 37043524,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_890.pdf",
-    "filename": "Narco_DME_890.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_890.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_891.pdf": {
-    "sha256": "7326b52edd7da032d05f65d42b80c2d376713830bcd3feb7f68d403276b97462",
-    "size": 60892334,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_891.pdf",
-    "filename": "Narco_DME_891.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_891.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_110-114.pdf": {
-    "sha256": "103d27571fcec5c6a4f51e0a85ded98aabf138640a9d54f97c000e4ab48e4ab7",
-    "size": 83816827,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_110-114.pdf",
-    "filename": "Narco_Nav_110-114.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_110-114.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_121_122.pdf": {
-    "sha256": "ab133055e25848b599b845117ee070e74e1bc268b90fa68e34b20301f9fb5a48",
-    "size": 81230936,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_121_122.pdf",
-    "filename": "Narco_Nav_121_122.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_121_122.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf": {
-    "sha256": "d06693d896933dc50b8ad5405c62cc09b1119ec96339d684d70e0c47f2913ff1",
-    "size": 93648355,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_824_825.pdf",
-    "filename": "Narco_Nav_824_825.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_UGR_GS_Receivers.pdf": {
-    "sha256": "5156fe9cd4495ecb0d28e490c885191ef382bbedbd9a6d714cc4bd0507f26be6",
-    "size": 45834731,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_UGR_GS_Receivers.pdf",
-    "filename": "Narco_UGR_GS_Receivers.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_UGR_GS_Receivers.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/king/King_KY196_197.pdf": {
-    "sha256": "77e5af62d45864c26c8b0ab384f9dbc9c9003f8cf718873d04f2a20e56d241f5",
-    "size": 66531212,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/King_KY196_197.pdf",
-    "filename": "King_KY196_197.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/king/King_KY196_197.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/collins/Collins_VHF_25x.pdf": {
-    "sha256": "554915d389073498082c8e11bd89b3b1dc42939d30569bf218bdb805d98527b2",
-    "size": 188116777,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Collins_VHF_25x.pdf",
-    "filename": "Collins_VHF_25x.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/collins/Collins_VHF_25x.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+    "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_4_Normal_Procedures.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/120-140_pm.pdf": {
     "sha256": "c8e3d292606db10efc8ef2b972c5ab2afddc5fb38cb5c99e9eba17949c9d50fe",
@@ -12237,18 +12141,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/182_poh_66.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
-  },
-  "https://www.mrwebman.com/aviation/cessna/manuals/182p_poh.pdf": {
-    "sha256": "612f5da06ecb475cadb2413ffe24fd22d6c94934d4a84afe05b58dab208d7a83",
-    "size": 8924900,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/182p_poh.pdf",
-    "filename": "182p_poh.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/182p_poh.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/182q_poh.pdf": {
