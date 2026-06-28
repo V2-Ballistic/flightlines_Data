@@ -563,16 +563,16 @@
     "final_url": "https://www.faa.gov/air_traffic/publications/media/memo_at_pubs_html.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL%201.pdf": {
+  "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf": {
     "sha256": "28ae1bffa2f4e41163004113b3d4d94e55cc549642173e9be1685fca0668adbb",
     "size": 41188159,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL%201.pdf",
-    "filename": "AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL%201.pdf",
+    "local_path": "_downloads/FAA Handbooks/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
+    "filename": "AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL%201.pdf",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/AIM_Chg_1_dtd_8-7-25_FINAL.pdf": {
@@ -671,16 +671,16 @@
     "final_url": "https://www.faa.gov/air_traffic/publications/media/PCG_Chg_2_dtd_1-22-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL%201.pdf": {
+  "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL_1.pdf": {
     "sha256": "6a810d2b90731d863f534dffb06460738cf1efc19c57b2dbe5150c230109b0d2",
     "size": 49541212,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/AIP_Basic_dtd_1-22-26_FINAL%201.pdf",
-    "filename": "AIP_Basic_dtd_1-22-26_FINAL%201.pdf",
+    "local_path": "_downloads/FAA Handbooks/AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
+    "filename": "AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL%201.pdf",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/us_eu_comparison_2015.pdf": {
@@ -947,16 +947,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_2_dtd_1-22-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_3_dtd_7-9-26.pdf": {
-    "sha256": "5801b724940ef156f5d7d21c225ad18c2e97a8bd3915249b7a9a99fb2464f544",
-    "size": 1472565,
+  "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_3_dtd_7-9-26_FINAL.pdf": {
+    "sha256": "8d90b1855a26efbc5550923aa9d75000741aae28c3ced5284c9e9eb27e1c8cfc",
+    "size": 1469668,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7110.65BB_Chg_3_dtd_7-9-26.pdf",
-    "filename": "7110.65BB_Chg_3_dtd_7-9-26.pdf",
+    "local_path": "_downloads/FAA Handbooks/7110.65BB_Chg_3_dtd_7-9-26_FINAL.pdf",
+    "filename": "7110.65BB_Chg_3_dtd_7-9-26_FINAL.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_3_dtd_7-9-26.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_3_dtd_7-9-26_FINAL.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/2024-04-04_Order_JO_7110.66H_National_Beacon_Code_Allocation_Plan_(NBCAP)_FINAL.pdf": {
@@ -6791,6 +6791,30 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
     "discovered_from": "https://www.lycoming.com/warranty"
   },
+  "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf": {
+    "sha256": "f068c0007e07fff66daf25b37d3fbf7824cd6bba8f90dda3996cf26677f2990a",
+    "size": 218053,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SL305%20Cam%20Kits.pdf",
+    "filename": "SL305%20Cam%20Kits.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/service-letter-no-l305"
+  },
+  "https://www.lycoming.com/sites/default/files/file/2026-06/SL234C%20Tool%20Rental%20Program.pdf": {
+    "sha256": "0a4ea47daa3dcfb19a7958b4ea710ecc98001236f284bfc3913bab9629b1f788",
+    "size": 207307,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SL234C%20Tool%20Rental%20Program.pdf",
+    "filename": "SL234C%20Tool%20Rental%20Program.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SL234C%20Tool%20Rental%20Program.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/service-letter-no-l234-c"
+  },
   "https://www.lycoming.com/sites/default/files/file/2026-05/SI1154AA%20Approved%20Starters%20and%20Alternators.pdf": {
     "sha256": "c3391a1c1c5d38f022508f240d9ca7fb81bd1cfa033c9f5d9e6f359677b573bd",
     "size": 355183,
@@ -7006,30 +7030,6 @@
     "status": "ok",
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-01/SI1042AI%20Approved%20Spark%20Plugs.pdf",
     "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1042-ai"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-01/iE2%20Wiring%20Harness%20Inspection%20and%20Repair%20Manual%20cv5_compressed.pdf": {
-    "sha256": "1d340c94338a4ba8e74ed37fa96507252070f4129b3ac067cf226ec91ddeb174",
-    "size": 2091346,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/iE2%20Wiring%20Harness%20Inspection%20and%20Repair%20Manual%20cv5_compressed.pdf",
-    "filename": "iE2%20Wiring%20Harness%20Inspection%20and%20Repair%20Manual%20cv5_compressed.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-01/iE2%20Wiring%20Harness%20Inspection%20and%20Repair%20Manual%20cv5_compressed.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/ie2-series-eecs-engine-wiring-harness-inspection-and-repair-manual"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-01/IOM-TEO-540-C1A%20Rev%205_0.pdf": {
-    "sha256": "35239fb9ae44c652abcb4e97612c80a5130c96a2e12d6b867130d56a11791dbc",
-    "size": 1875502,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/IOM-TEO-540-C1A%20Rev%205_0.pdf",
-    "filename": "IOM-TEO-540-C1A%20Rev%205_0.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-01/IOM-TEO-540-C1A%20Rev%205_0.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/teo-540-c1a-engine-installation-operations-manual-rev-5"
   },
   "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
     "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
@@ -11723,6 +11723,126 @@
     "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_4_Normal_Procedures.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
   },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf": {
+    "sha256": "446423ac382675b98f6a554ed3e16d451da4a0f9dc5df68f1147b72c59126363",
+    "size": 118179468,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_CP_IXX_Audio_Panels.pdf",
+    "filename": "Narco_CP_IXX_Audio_Panels.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_195.pdf": {
+    "sha256": "6f5b1fc0daf487da314eb2a7d5ad8fbd734a532fdb465150a0ab2967b673b6ab",
+    "size": 67080701,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_195.pdf",
+    "filename": "Narco_DME_195.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_195.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_890.pdf": {
+    "sha256": "6d41c769423cc05baeb9c51d1a90753760dfe7b5aff31764ac67cbdf870dd7e9",
+    "size": 37043524,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_890.pdf",
+    "filename": "Narco_DME_890.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_890.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_891.pdf": {
+    "sha256": "7326b52edd7da032d05f65d42b80c2d376713830bcd3feb7f68d403276b97462",
+    "size": 60892334,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_DME_891.pdf",
+    "filename": "Narco_DME_891.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_891.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_110-114.pdf": {
+    "sha256": "103d27571fcec5c6a4f51e0a85ded98aabf138640a9d54f97c000e4ab48e4ab7",
+    "size": 83816827,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_110-114.pdf",
+    "filename": "Narco_Nav_110-114.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_110-114.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_121_122.pdf": {
+    "sha256": "ab133055e25848b599b845117ee070e74e1bc268b90fa68e34b20301f9fb5a48",
+    "size": 81230936,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_121_122.pdf",
+    "filename": "Narco_Nav_121_122.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_121_122.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf": {
+    "sha256": "d06693d896933dc50b8ad5405c62cc09b1119ec96339d684d70e0c47f2913ff1",
+    "size": 93648355,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_824_825.pdf",
+    "filename": "Narco_Nav_824_825.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_UGR_GS_Receivers.pdf": {
+    "sha256": "5156fe9cd4495ecb0d28e490c885191ef382bbedbd9a6d714cc4bd0507f26be6",
+    "size": 45834731,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_UGR_GS_Receivers.pdf",
+    "filename": "Narco_UGR_GS_Receivers.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_UGR_GS_Receivers.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/king/King_KY196_197.pdf": {
+    "sha256": "77e5af62d45864c26c8b0ab384f9dbc9c9003f8cf718873d04f2a20e56d241f5",
+    "size": 66531212,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/King_KY196_197.pdf",
+    "filename": "King_KY196_197.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/king/King_KY196_197.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/collins/Collins_VHF_25x.pdf": {
+    "sha256": "554915d389073498082c8e11bd89b3b1dc42939d30569bf218bdb805d98527b2",
+    "size": 188116777,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Collins_VHF_25x.pdf",
+    "filename": "Collins_VHF_25x.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/collins/Collins_VHF_25x.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
+  },
   "https://www.mrwebman.com/aviation/cessna/manuals/120-140_pm.pdf": {
     "sha256": "c8e3d292606db10efc8ef2b972c5ab2afddc5fb38cb5c99e9eba17949c9d50fe",
     "size": 14462490,
@@ -12141,6 +12261,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/182_poh_66.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
+  },
+  "https://www.mrwebman.com/aviation/cessna/manuals/182p_poh.pdf": {
+    "sha256": "612f5da06ecb475cadb2413ffe24fd22d6c94934d4a84afe05b58dab208d7a83",
+    "size": 8924900,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/182p_poh.pdf",
+    "filename": "182p_poh.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/182p_poh.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/182q_poh.pdf": {
