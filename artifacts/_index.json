@@ -1319,6 +1319,18 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_2_dtd_3_19_26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
+  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf": {
+    "sha256": "dc71a8e1c5358c9fa26de8a56e1217327bae50823e4d56a3d0e04c72de37816b",
+    "size": 7260674,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
+    "filename": "7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
   "https://www.faa.gov/documentLibrary/media/Order/2023-12-18_Order_JO_7350.9GG_Location_Identifiers_FOR_DIR_SIG.pdf": {
     "sha256": "98b00d028e10f5920c485cc5f8ac94227f323954a4ec57c803ce24d0d6999efb",
     "size": 499650,
@@ -3514,6 +3526,30 @@
     "status": "ok",
     "final_url": "https://www.faa.gov/sites/faa.gov/files/space/legislation_regulation_guidance/99may_inert_rpt.pdf",
     "discovered_from": "https://www.faa.gov/space/legislation_regulation_guidance/"
+  },
+  "https://www.faa.gov/space/environmental/FAA-USSF-NASA_PLOC_Reinitiation_2026_signed.pdf": {
+    "sha256": "9d45f615d21219a0f7d3718a8a22932abacf59e9056cf4f4088290928a5f353b",
+    "size": 11315964,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/FAA-USSF-NASA_PLOC_Reinitiation_2026_signed.pdf",
+    "filename": "FAA-USSF-NASA_PLOC_Reinitiation_2026_signed.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/space/environmental/FAA-USSF-NASA_PLOC_Reinitiation_2026_signed.pdf",
+    "discovered_from": "https://www.faa.gov/space/environmental"
+  },
+  "https://www.faa.gov/space/environmental/FAA-USSF-NASA_PLOC_Reinitiation_2026_App_A.pdf": {
+    "sha256": "d6149e2225201d74ed6b52ea74fa35490390d9ad50c30f10fc431ebbbb5c1ecc",
+    "size": 159421,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/FAA-USSF-NASA_PLOC_Reinitiation_2026_App_A.pdf",
+    "filename": "FAA-USSF-NASA_PLOC_Reinitiation_2026_App_A.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/space/environmental/FAA-USSF-NASA_PLOC_Reinitiation_2026_App_A.pdf",
+    "discovered_from": "https://www.faa.gov/space/environmental"
   },
   "https://www.faa.gov/space/office_spaceports/Spaceport-Licensing-Primer.pdf": {
     "sha256": "1f43ccd694d2ff70c10d8f58ff613ea8583406fbe9d9a71610da6a1faba488e3",
@@ -6791,6 +6827,30 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
     "discovered_from": "https://www.lycoming.com/warranty"
   },
+  "https://www.lycoming.com/sites/default/files/file/2026-07/PC-IO-360-B4A_Rev-2.pdf": {
+    "sha256": "f66075b1aee1a2663c8808c6a4680b483e88b3bce3dc3dab43c745c5c1c3a3a4",
+    "size": 1539192,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/PC-IO-360-B4A_Rev-2.pdf",
+    "filename": "PC-IO-360-B4A_Rev-2.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-07/PC-IO-360-B4A_Rev-2.pdf",
+    "discovered_from": "https://www.lycoming.com/io-360-b4a-illustrated-parts-catalog-rev-2"
+  },
+  "https://www.lycoming.com/sites/default/files/file/2026-06/SB669-HET_Wastegate.pdf": {
+    "sha256": "188cdcb2ba9792dda65eb0dc2a94d4a7c38669f51d8efa62d9b9d651085095fc",
+    "size": 279893,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SB669-HET_Wastegate.pdf",
+    "filename": "SB669-HET_Wastegate.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SB669-HET_Wastegate.pdf",
+    "discovered_from": "https://www.lycoming.com/service-bulletin-no-669"
+  },
   "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf": {
     "sha256": "f068c0007e07fff66daf25b37d3fbf7824cd6bba8f90dda3996cf26677f2990a",
     "size": 218053,
@@ -7007,30 +7067,6 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SB665%20Heat%20Shield%20Removal.pdf",
     "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-665"
   },
-  "https://www.lycoming.com/sites/default/files/file/2026-02/SB533D%20Prop%20Strike.pdf": {
-    "sha256": "427be97cb129d3f5dc8dce781054fe128044c729fa5d86787469d35345f8061d",
-    "size": 378208,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB533D%20Prop%20Strike.pdf",
-    "filename": "SB533D%20Prop%20Strike.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SB533D%20Prop%20Strike.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-533-d"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-01/SI1042AI%20Approved%20Spark%20Plugs.pdf": {
-    "sha256": "e72653e5f260da4504f3bf7cc3d5fcca4452f845daab8a1a886192f6edec8ed8",
-    "size": 1192388,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1042AI%20Approved%20Spark%20Plugs.pdf",
-    "filename": "SI1042AI%20Approved%20Spark%20Plugs.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-01/SI1042AI%20Approved%20Spark%20Plugs.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1042-ai"
-  },
   "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
     "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
     "size": 56023,
@@ -7199,18 +7235,6 @@
     "final_url": "https://www.flyrotax.com/assets/files/TC-TCDS-EASA-E-121-912-915-916_2024-01-08-124855_agfv.pdf",
     "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
   },
-  "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916.pdf": {
-    "sha256": "aac8ad93d70dfb2935b38842139eb5e5da52fb151ca90700247973fa823fac73",
-    "size": 235594,
-    "group": "Rotax",
-    "manual_type": "Engine Manual",
-    "local_path": "_downloads/Rotax/ASTM-Compliance-Statement-912-914-915-916.pdf",
-    "filename": "ASTM-Compliance-Statement-912-914-915-916.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916.pdf",
-    "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
-  },
   "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-582.pdf": {
     "sha256": "ed56ace891ba4fd5165dc85702a39c0d139437b3125ee7105cb9c3a24101467d",
     "size": 134673,
@@ -7223,16 +7247,28 @@
     "final_url": "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-582.pdf",
     "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
   },
-  "https://www.flyrotax.com/assets/files/TC-Validation-Overview-2026-02.pdf": {
-    "sha256": "dc188fcc9d2aea66c5ed756a1939f216b9bb1ecb34a4d125e94cdef140112f25",
-    "size": 141140,
+  "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916-1.pdf": {
+    "sha256": "d5c62ab790d7018ebad897de2f0507a6adfceb35641a3e819d3d6e95c6f878b3",
+    "size": 217475,
     "group": "Rotax",
     "manual_type": "Engine Manual",
-    "local_path": "_downloads/Rotax/TC-Validation-Overview-2026-02.pdf",
-    "filename": "TC-Validation-Overview-2026-02.pdf",
+    "local_path": "_downloads/Rotax/ASTM-Compliance-Statement-912-914-915-916-1.pdf",
+    "filename": "ASTM-Compliance-Statement-912-914-915-916-1.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.flyrotax.com/assets/files/TC-Validation-Overview-2026-02.pdf",
+    "final_url": "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916-1.pdf",
+    "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
+  },
+  "https://www.flyrotax.com/assets/files/TC-Validation-Overview-2026-06.pdf": {
+    "sha256": "cf84d69f091e0449cadde567015101f96a7cc1c639045c86466bdc904f92152f",
+    "size": 124105,
+    "group": "Rotax",
+    "manual_type": "Engine Manual",
+    "local_path": "_downloads/Rotax/TC-Validation-Overview-2026-06.pdf",
+    "filename": "TC-Validation-Overview-2026-06.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.flyrotax.com/assets/files/TC-Validation-Overview-2026-06.pdf",
     "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
   },
   "https://www.flyrotax.com/assets/files/Flyer_GenuineSpareparts_web.pdf": {
@@ -7667,76 +7703,16 @@
     "final_url": "https://hartzellprop.com/wp-content/uploads/ENTIRE-CATALOG-IN-ORDER-BY-PRICE-LIST.pdf",
     "discovered_from": "https://hartzellprop.com/products/top-prop/"
   },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev.pdf": {
-    "sha256": "76bdfcedb3686eba81288bd6a7411b931fe6dd9861601f9fcf23d18c6ae65aeb",
-    "size": 5893338,
+  "https://hartzellprop.com/wp-content/uploads/260089-006-HARPRO-White-Paper-Updates_Web_HR.pdf": {
+    "sha256": "ff0726acf378c53ecdf8dd11c5e2a49c0819c5d08ba9fa79f28d2e898581d859",
+    "size": 8831330,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev.pdf",
-    "filename": "white_paper_composite_prop_rev.pdf",
+    "local_path": "_downloads/Hartzell Propeller/260089-006-HARPRO-White-Paper-Updates_Web_HR.pdf",
+    "filename": "260089-006-HARPRO-White-Paper-Updates_Web_HR.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev.pdf",
-    "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_french.pdf": {
-    "sha256": "3cea6119446ac184d196a0816c2a5bb5d3fba3d4730e310c3340b6eaadfffc15",
-    "size": 5945137,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev_french.pdf",
-    "filename": "white_paper_composite_prop_rev_french.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_french.pdf",
-    "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_german_2.pdf": {
-    "sha256": "3e054477b18d7241ba631b5a177765a1949e9321feadf87f23eec388419bf413",
-    "size": 5830369,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev_german_2.pdf",
-    "filename": "white_paper_composite_prop_rev_german_2.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_german_2.pdf",
-    "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_portuguese.pdf": {
-    "sha256": "b00a113058c404da6e8ee78b7d2c2b7f3dcdfd56c45a0e6b985c3e9744f8bd77",
-    "size": 5917861,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev_portuguese.pdf",
-    "filename": "white_paper_composite_prop_rev_portuguese.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_portuguese.pdf",
-    "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_spanish.pdf": {
-    "sha256": "d45a37a1af370b4dd58cc8d863c1507d9934fbc5baebf642bf93d4ec517de346",
-    "size": 5896049,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev_spanish.pdf",
-    "filename": "white_paper_composite_prop_rev_spanish.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_spanish.pdf",
-    "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_italian.pdf": {
-    "sha256": "6a29aa82abc9f8ad3fcb518df3d3e87c6e942c5170ca380795e095ff2d7afe76",
-    "size": 5896245,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/white_paper_composite_prop_rev_italian.pdf",
-    "filename": "white_paper_composite_prop_rev_italian.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/white_paper_composite_prop_rev_italian.pdf",
+    "final_url": "https://hartzellprop.com/wp-content/uploads/260089-006-HARPRO-White-Paper-Updates_Web_HR.pdf",
     "discovered_from": "https://hartzellprop.com/composite-propeller-technology/"
   },
   "https://hartzellprop.com//wp-content/uploads/Propeller-System-Selection.pdf": {
@@ -11447,18 +11423,6 @@
     "final_url": "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts0.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
   },
-  "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts1.pdf": {
-    "sha256": "27e029b015f609213f55ae7a7fce0a3a34b40c6f0b76ed3b749a820c57c378b3",
-    "size": 5068197,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/PA_28_Parts1.pdf",
-    "filename": "PA_28_Parts1.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts1.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
-  },
   "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts2.pdf": {
     "sha256": "5bb03101d67b53ab94f7d0abaa4c955a33e41ccfc83cff646b0c1d26a23dc8ec",
     "size": 4664017,
@@ -12346,18 +12310,6 @@
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C190-195/190-195_pc.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C190-195"
-  },
-  "https://www.mrwebman.com/aviation/cessna/manuals/200_sm_66-68.pdf": {
-    "sha256": "b7bf8a8d9f7ab43b0c52683332966fb3a919c98d0fcaa908f2fe7922529adc2c",
-    "size": 123745479,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/200_sm_66-68.pdf",
-    "filename": "200_sm_66-68.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/200_sm_66-68.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/206_pm_64-73.pdf": {
     "sha256": "704005e8b92b1aab62f54c97d4ae4a483615099ce95acb422178f3ed9acace1b",
