@@ -563,16 +563,16 @@
     "final_url": "https://www.faa.gov/air_traffic/publications/media/memo_at_pubs_html.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf": {
-    "sha256": "28ae1bffa2f4e41163004113b3d4d94e55cc549642173e9be1685fca0668adbb",
-    "size": 41188159,
+  "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_and_3_dtd_7-9-26.pdf": {
+    "sha256": "aa64a8be658f54a2f6d7fbb4b0d3ae222942446ad200926e5c88d8afca39dc8b",
+    "size": 42727799,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
-    "filename": "AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
+    "local_path": "_downloads/FAA Handbooks/AIM_Basic_w_Chg_1_and_2_and_3_dtd_7-9-26.pdf",
+    "filename": "AIM_Basic_w_Chg_1_and_2_and_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_dtd_1-22-26_FINAL_1.pdf",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_and_2_and_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/AIM_Chg_1_dtd_8-7-25_FINAL.pdf": {
@@ -597,6 +597,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Chg2_dtd_1-22-26.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
+  "https://www.faa.gov/air_traffic/publications/media/AIM_Chg_3_dtd_7-9-26.pdf": {
+    "sha256": "e4cf315e55e80e58a18b1a9d8c03629bce8e8a238f3debc1390d0a2f4d24d95b",
+    "size": 2681565,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/AIM_Chg_3_dtd_7-9-26.pdf",
+    "filename": "AIM_Chg_3_dtd_7-9-26.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIM_Chg_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/1100-1.pdf": {
@@ -635,16 +647,16 @@
     "final_url": "https://www.faa.gov/air_traffic/publications/media/SRMGSA.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/air_traffic/publications/media/PCG_Bsc_w_Chg_1_and_2_dtd_1-22-26.pdf": {
-    "sha256": "6bf5b614446668f4a431b6fd9a5424811b52db6f80e946cb285d00c8a2d6727b",
-    "size": 745529,
+  "https://www.faa.gov/air_traffic/publications/media/PCG_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf": {
+    "sha256": "b30eb2d5cac01f51949c13a41c92facf002edcf94ca8fafac5051497d6dd81e5",
+    "size": 745451,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/PCG_Bsc_w_Chg_1_and_2_dtd_1-22-26.pdf",
-    "filename": "PCG_Bsc_w_Chg_1_and_2_dtd_1-22-26.pdf",
+    "local_path": "_downloads/FAA Handbooks/PCG_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
+    "filename": "PCG_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air_traffic/publications/media/PCG_Bsc_w_Chg_1_and_2_dtd_1-22-26.pdf",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/PCG_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/PCG_Chg_1_dtd_8-7-25.pdf": {
@@ -671,16 +683,40 @@
     "final_url": "https://www.faa.gov/air_traffic/publications/media/PCG_Chg_2_dtd_1-22-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL_1.pdf": {
-    "sha256": "6a810d2b90731d863f534dffb06460738cf1efc19c57b2dbe5150c230109b0d2",
-    "size": 49541212,
+  "https://www.faa.gov/air_traffic/publications/media/PCG_Chg_3_dtd_7-9-26.pdf": {
+    "sha256": "398e89de4422d1e0e450f19e84306219e42f93581b481bf722255f7a68a2d127",
+    "size": 131728,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
-    "filename": "AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
+    "local_path": "_downloads/FAA Handbooks/PCG_Chg_3_dtd_7-9-26.pdf",
+    "filename": "PCG_Chg_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_dtd_1-22-26_FINAL_1.pdf",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/PCG_Chg_3_dtd_7-9-26.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
+  "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_w_Amd_1_dtd_7-9-26.pdf": {
+    "sha256": "b53c717c0de31b135319cdcd54822c8bf90364546f4a76095e87c006e0bfe151",
+    "size": 52911594,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/AIP_Basic_w_Amd_1_dtd_7-9-26.pdf",
+    "filename": "AIP_Basic_w_Amd_1_dtd_7-9-26.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIP_Basic_w_Amd_1_dtd_7-9-26.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
+  "https://www.faa.gov/air_traffic/publications/media/AIP_Amd_1_dtd_7-9-26.pdf": {
+    "sha256": "ee2625cbfbed24c58457ac45d37c40397c31fefe5c58d840b5c2e05522328a50",
+    "size": 3331111,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/AIP_Amd_1_dtd_7-9-26.pdf",
+    "filename": "AIP_Amd_1_dtd_7-9-26.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/AIP_Amd_1_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/us_eu_comparison_2015.pdf": {
@@ -827,16 +863,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7050.1B_with_CHG_1_and_2.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7110.10EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf": {
-    "sha256": "de7a845a6ad320214ee6a8c5b34eb31636acca24942c3bd7a344ab744f29bab5",
-    "size": 3992158,
+  "https://www.faa.gov/documentLibrary/media/Order/7110.10EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf": {
+    "sha256": "f7878378dec99d6b31286b8ac84d125d6177a9c8c84fc15d90c3717877dd88ad",
+    "size": 4148286,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7110.10EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
-    "filename": "7110.10EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "local_path": "_downloads/FAA Handbooks/7110.10EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
+    "filename": "7110.10EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.10EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.10EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/7110.10EE_Bsc_dtd_2-20-25.pdf": {
@@ -899,16 +935,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_7110.50D_Letters_of_Authorization_for_Reduced_Separation_at_Recurring_Airshows_and_Fly-Ins.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf": {
-    "sha256": "2c2ea08ee7378a154daf04b48555c2c9bff07192c57c6930aac69339e24f94de",
-    "size": 9660913,
+  "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf": {
+    "sha256": "f91f7aea144ad9c8ac12a5c9106d113e1403c79e9ec4f4b5815cd7c05b48114e",
+    "size": 9827471,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
-    "filename": "7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "local_path": "_downloads/FAA Handbooks/7110.65BB_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
+    "filename": "7110.65BB_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Basic_dtd_2-20-25.pdf": {
@@ -1115,16 +1151,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/Order_JO_7200.23D_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf": {
-    "sha256": "3caa7d5c51151918ba763ba6e69a96bafccf8c0916a180bdf4dd8c4c202c9d8e",
-    "size": 6134111,
+  "https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf": {
+    "sha256": "723bf543b4123c9132031b7c0ea6127b0a7ff18e6685093c05d7ad589854efa7",
+    "size": 6660610,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7210.3EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
-    "filename": "7210.3EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "local_path": "_downloads/FAA Handbooks/7210.3EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
+    "filename": "7210.3EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Basic_dtd_2-20-25.pdf": {
@@ -1235,16 +1271,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/2024-11-26_Order_JO7210.629E_Precip_Alt_Layer_Filter_Adjustments_in_En_Route_and_Oceanic_Automation_Platforms_FINAL.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7210.632A_with_CHG_1_and_CHG_2_updated_link.pdf": {
-    "sha256": "ffcf210915cde607cd4f59ea16ab57abc48e96baa0a315688a8a6decac062d55",
-    "size": 1746407,
+  "https://www.faa.gov/documentLibrary/media/Order/JO_7210.632A_CHG_3.pdf": {
+    "sha256": "e2e15012b8cd853a759e188b4df527c4a8de10f117506c7837e4859846cd3ffa",
+    "size": 255470,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/FAA_Order_JO_7210.632A_with_CHG_1_and_CHG_2_updated_link.pdf",
-    "filename": "FAA_Order_JO_7210.632A_with_CHG_1_and_CHG_2_updated_link.pdf",
+    "local_path": "_downloads/FAA Handbooks/JO_7210.632A_CHG_3.pdf",
+    "filename": "JO_7210.632A_CHG_3.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7210.632A_with_CHG_1_and_CHG_2_updated_link.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_7210.632A_CHG_3.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/JO_7210.633A_ATO_Quality_Assurance_with_CHG_1.pdf": {
@@ -1283,16 +1319,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/2020-01-23_FAA_Order_JO_7210.637_Terminal_Flight_Data_Manager_Electronic_Flight_Strips.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_and_2_dtd_3-19-26.pdf": {
-    "sha256": "cc85eea053a29f10135de08cd84224dcf802dd5f537ef40d3b0af2ddeb4254d3",
-    "size": 8983981,
+  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf": {
+    "sha256": "3ad31433d729dcb22de697a06b66718a64ed525cd2408da47dacbf96bd2583ed",
+    "size": 9285128,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7340.2P_Bsc_w_Chg_1_and_2_dtd_3-19-26.pdf",
-    "filename": "7340.2P_Bsc_w_Chg_1_and_2_dtd_3-19-26.pdf",
+    "local_path": "_downloads/FAA Handbooks/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
+    "filename": "7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_and_2_dtd_3-19-26.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/JO_7340.2P_CHG_1_dtd_11_27_25_Final.pdf": {
@@ -1355,16 +1391,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7360.1K_Aircraft_Type_Designators.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7400.2R_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf": {
-    "sha256": "3625b3ee88d4cdf44ec1dc2f7ad082b0c51531861adf509320677225db99e249",
-    "size": 6869838,
+  "https://www.faa.gov/documentLibrary/media/Order/7400.2R_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf": {
+    "sha256": "2c1ce7c298218e96855f9f3f2dd999a353ac29b85e5abb752d2c4b18644267f4",
+    "size": 6978826,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7400.2R_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
-    "filename": "7400.2R_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "local_path": "_downloads/FAA Handbooks/7400.2R_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
+    "filename": "7400.2R_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7400.2R_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7400.2R_Bsc_w_Chg_1_2_and_3_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/7400.2R_Procedures_for_Handling_Airspace_Matters_Basic_dtd_2_20_25.pdf": {
@@ -1451,16 +1487,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_7610.12B.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/7610.14_Basic_w_Chg_1_dtd_1-22-26_Final.pdf": {
-    "sha256": "bb219a55aa6a5c9d838d5b5af505b9aab6c3b434048562901ed5e64373668b10",
-    "size": 10792691,
+  "https://www.faa.gov/documentLibrary/media/Order/7610.14_Basic_w_Chg1_and_Chg_2_dtd_7-9-26.pdf": {
+    "sha256": "cb1626d0d6bb42d9ceb45abb2bc9465624eab5d86cfb3e900781f873e41e1be8",
+    "size": 26807045,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7610.14_Basic_w_Chg_1_dtd_1-22-26_Final.pdf",
-    "filename": "7610.14_Basic_w_Chg_1_dtd_1-22-26_Final.pdf",
+    "local_path": "_downloads/FAA Handbooks/7610.14_Basic_w_Chg1_and_Chg_2_dtd_7-9-26.pdf",
+    "filename": "7610.14_Basic_w_Chg1_and_Chg_2_dtd_7-9-26.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7610.14_Basic_w_Chg_1_dtd_1-22-26_Final.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7610.14_Basic_w_Chg1_and_Chg_2_dtd_7-9-26.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/JO_7610.14_Basic_dtd_8-7-25.pdf": {
@@ -2496,8 +2532,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.docx": {
-    "sha256": "433f5e15f5fede8f7744ad9acd851ac2915ca67dd5edde7c3374637bce6c92d9",
-    "size": 179689,
+    "sha256": "4b5cebac616740a8405f745a19c0842d2be94ea5249d72f3b670f16c7cfe6020",
+    "size": 178506,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.docx",
@@ -2508,8 +2544,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.pdf": {
-    "sha256": "c0a3ef7dde57ec245dbe6e23ddf444def32583c518a57be23951a4e19373279f",
-    "size": 493725,
+    "sha256": "eaef5c225c347344ec7b723c26e7b15aeb390f619a1c2842dc2cf43bf4bbe584",
+    "size": 492533,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.pdf",
@@ -6851,6 +6887,18 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SB669-HET_Wastegate.pdf",
     "discovered_from": "https://www.lycoming.com/service-bulletin-no-669"
   },
+  "https://www.lycoming.com/sites/default/files/attachments/SSP-385_Rental_Tool_Catalog.pdf": {
+    "sha256": "34857206768ba413e4989e0cab703c4c5b273807e79a4e012e05cb167fa175fb",
+    "size": 13237787,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SSP-385_Rental_Tool_Catalog.pdf",
+    "filename": "SSP-385_Rental_Tool_Catalog.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/attachments/SSP-385_Rental_Tool_Catalog.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/special-service-publication-no-385"
+  },
   "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf": {
     "sha256": "f068c0007e07fff66daf25b37d3fbf7824cd6bba8f90dda3996cf26677f2990a",
     "size": 218053,
@@ -7054,18 +7102,6 @@
     "status": "ok",
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SI1014P%20Lubricating%20Oil%20Recommendations.pdf",
     "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1014-p"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-02/SB665%20Heat%20Shield%20Removal.pdf": {
-    "sha256": "d45e62dc58e256017cb5e1d86a28cc12f2aa2438ac42aa7a57253e9cf589c157",
-    "size": 260733,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB665%20Heat%20Shield%20Removal.pdf",
-    "filename": "SB665%20Heat%20Shield%20Removal.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SB665%20Heat%20Shield%20Removal.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-665"
   },
   "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
     "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
@@ -7691,6 +7727,18 @@
     "final_url": "https://hartzellprop.com//SERVICE-DOCUMENTS/FORMS/Warranty-Claim-Form.pdf",
     "discovered_from": "https://hartzellprop.com/services/limited-warranty/"
   },
+  "https://hartzellprop.com/wp-content/uploads/DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf": {
+    "sha256": "fb185f73f9908bac5ae050222a9032ad95fe54cd835da346d0d6c609f6bd313c",
+    "size": 70718,
+    "group": "Hartzell Propeller",
+    "manual_type": "Propeller Manual",
+    "local_path": "_downloads/Hartzell Propeller/DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf",
+    "filename": "DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://hartzellprop.com/wp-content/uploads/DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf",
+    "discovered_from": "https://hartzellprop.com/services/limited-warranty/"
+  },
   "https://hartzellprop.com/wp-content/uploads/ENTIRE-CATALOG-IN-ORDER-BY-PRICE-LIST.pdf": {
     "sha256": "743f536a1c99f493ae99f2920ae6c649591fee065f90a108166d962b357c33db",
     "size": 13530268,
@@ -7992,8 +8040,8 @@
     "discovered_from": "https://hartzellprop.com/services/product-support-library/manuals/hartzell-owners-manuals-english/"
   },
   "https://hartzellprop.com/MANUALS/670-0000-A.pdf": {
-    "sha256": "d81781ee0dd48fd2479f3db037bfd2625435ccbc767b7a65bff500979b81bd50",
-    "size": 1521091,
+    "sha256": "5ddf81b3e3176e76f91ecb6aa3f72e1543b98942223cb7a41922728a94d7419a",
+    "size": 1703240,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/670-0000-A.pdf",
@@ -8064,8 +8112,8 @@
     "discovered_from": "https://hartzellprop.com/hartzell-field-maintenance-manuals-3"
   },
   "https://hartzellprop.com/MANUALS/165A-0000-A.pdf": {
-    "sha256": "fb39d74b3344a2f02b084964f46e1d47f2e0842e23127c41b707fcb293f4460e",
-    "size": 7574533,
+    "sha256": "73960863f222286e018aa7ae596258dd9384126cdb690a66adf228b7570b7848",
+    "size": 7615895,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/165A-0000-A.pdf",
@@ -8148,8 +8196,8 @@
     "discovered_from": "https://hartzellprop.com//services/product-support-library/manuals/application-guide/"
   },
   "https://hartzellprop.com/MANUALS/Revision-Status-Sheet.pdf": {
-    "sha256": "6f2aade5471e634db37e516ca7eb75b856db21a55dc565528ce75a53c4967904",
-    "size": 134628,
+    "sha256": "ac9aafe7c39c8e99a898feb684cd6af8cbd30331edfa9a8797ca8bf1ff54e6e8",
+    "size": 135186,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Revision-Status-Sheet.pdf",
@@ -8160,8 +8208,8 @@
     "discovered_from": "https://hartzellprop.com//services/product-support-library/manuals/manual-revision-status-sheet/"
   },
   "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/SB-Index.pdf": {
-    "sha256": "56cc191087d3c2d19b4e46ae0460098be22436ca4cc459242b71f45a6f6c5e22",
-    "size": 185036,
+    "sha256": "97de069b6c7624b5e75ed3d95f801f7ddfd9946620a1312018c13147b1b4c88f",
+    "size": 435050,
     "group": "Hartzell Propeller",
     "manual_type": "Service Document",
     "local_path": "_downloads/Hartzell Propeller/SB-Index.pdf",
@@ -8169,6 +8217,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/SB-Index.pdf",
+    "discovered_from": "https://hartzellprop.com/services/product-support-library/service-documents/service-bulletins/"
+  },
+  "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-ASB-61-413.pdf": {
+    "sha256": "bd45c61529d852df5adb5d65ccf1f6cc3119352248dd2828d698be122720e18c",
+    "size": 230429,
+    "group": "Hartzell Propeller",
+    "manual_type": "Service Document",
+    "local_path": "_downloads/Hartzell Propeller/HC-ASB-61-413.pdf",
+    "filename": "HC-ASB-61-413.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-ASB-61-413.pdf",
     "discovered_from": "https://hartzellprop.com/services/product-support-library/service-documents/service-bulletins/"
   },
   "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-ASB-61-410.pdf": {
@@ -8193,6 +8253,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-ASB-61-409.pdf",
+    "discovered_from": "https://hartzellprop.com/services/product-support-library/service-documents/service-bulletins/"
+  },
+  "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-SB-61-408.pdf": {
+    "sha256": "648ad33abab143f3e8cd622ea2b35e0613a8390b48e3e98227a167de2d675189",
+    "size": 364622,
+    "group": "Hartzell Propeller",
+    "manual_type": "Service Document",
+    "local_path": "_downloads/Hartzell Propeller/HC-SB-61-408.pdf",
+    "filename": "HC-SB-61-408.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-SB-61-408.pdf",
     "discovered_from": "https://hartzellprop.com/services/product-support-library/service-documents/service-bulletins/"
   },
   "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-ASB-61-407.pdf": {
@@ -11423,6 +11495,18 @@
     "final_url": "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts0.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
   },
+  "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts1.pdf": {
+    "sha256": "27e029b015f609213f55ae7a7fce0a3a34b40c6f0b76ed3b749a820c57c378b3",
+    "size": 5068197,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/PA_28_Parts1.pdf",
+    "filename": "PA_28_Parts1.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts1.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
+  },
   "https://www.mrwebman.com/aviation/piper/manuals/PA_28_Parts2.pdf": {
     "sha256": "5bb03101d67b53ab94f7d0abaa4c955a33e41ccfc83cff646b0c1d26a23dc8ec",
     "size": 4664017,
@@ -12263,18 +12347,6 @@
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_74-76.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM"
   },
-  "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_78-86.pdf": {
-    "sha256": "20a6e8b3cb0c7f7cc4bd2ae7f9eeb03a90a53711bcd9b02dcf50159069874d77",
-    "size": 31054981,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/182_pm_78-86.pdf",
-    "filename": "182_pm_78-86.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_78-86.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM"
-  },
   "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/C182SM69.pdf": {
     "sha256": "641838d6fceaccb33a4d0de81900f0dbdab4bc548c3dd9dade38d23e3ebc3f94",
     "size": 36941585,
@@ -12310,6 +12382,18 @@
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C190-195/190-195_pc.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C190-195"
+  },
+  "https://www.mrwebman.com/aviation/cessna/manuals/200_sm_66-68.pdf": {
+    "sha256": "b7bf8a8d9f7ab43b0c52683332966fb3a919c98d0fcaa908f2fe7922529adc2c",
+    "size": 123745479,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/200_sm_66-68.pdf",
+    "filename": "200_sm_66-68.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/200_sm_66-68.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/206_pm_64-73.pdf": {
     "sha256": "704005e8b92b1aab62f54c97d4ae4a483615099ce95acb422178f3ed9acace1b",
