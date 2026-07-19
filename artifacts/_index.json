@@ -71,6 +71,18 @@
     "final_url": "https://www.faa.gov/licenses_certificates/vintage_experimental/Vintage_Flight_Engineer_Examiners.pdf",
     "discovered_from": "https://www.faa.gov/licenses_certificates/vintage_experimental/"
   },
+  "https://www.faa.gov/licenses_certificates/vintage_experimental/Table_5-173_Experimental_Aircraft_Authorizations.pdf": {
+    "sha256": "5ca0ae8d14868420521a15b5df17625cd743124edaa501b3b83d47d20fe643c7",
+    "size": 181543,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/Table_5-173_Experimental_Aircraft_Authorizations.pdf",
+    "filename": "Table_5-173_Experimental_Aircraft_Authorizations.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/licenses_certificates/vintage_experimental/Table_5-173_Experimental_Aircraft_Authorizations.pdf",
+    "discovered_from": "https://www.faa.gov/licenses_certificates/vintage_experimental/"
+  },
   "https://www.faa.gov/sites/faa.gov/files/aircraft/gen_av/light_sport/ExistingModels.pdf": {
     "sha256": "e931bb25c3a9cc440fefb456fdce01943d1cf526e35759f69764535f1d956edc",
     "size": 45747,
@@ -5771,40 +5783,40 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43.13-1B_w-chg1.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/99861"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-water-rescue-industry.pdf": {
-    "sha256": "f1704c96f7aa66ad14fa983251500b3638508fd91c6bae70f4c1bb576f2ae24a",
-    "size": 549134,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf": {
+    "sha256": "bbf4b3fee762f3feb06d720a32eef7a32bc67a651dfa9686ac4db253da14204e",
+    "size": 386700,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-150-5210-13D-water-rescue-industry.pdf",
-    "filename": "draft-150-5210-13D-water-rescue-industry.pdf",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
+    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-water-rescue-industry.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-water-rescue-industry-letter.pdf": {
-    "sha256": "5d20b52dd3d11a94ac6f341da9dd929a2bdf9dadd6463992b22340d2b2a611e6",
-    "size": 176386,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf": {
+    "sha256": "40140ab482a70255191232f361fef3ecab48d44de42e80705e83e330c7077287",
+    "size": 408984,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-150-5210-13D-water-rescue-industry-letter.pdf",
-    "filename": "draft-150-5210-13D-water-rescue-industry-letter.pdf",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
+    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-water-rescue-industry-letter.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-Water-Rescue-comment-matrix.xlsx": {
-    "sha256": "22f4c32183ffd3307b6405147f4af4778fbe22bfca03a8f9623299c31cbc7c64",
-    "size": 33890,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx": {
+    "sha256": "186cd707c98a0feb038591a5e2df6520c35c9ab12aa82b398c5f5991a7b914b2",
+    "size": 33647,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-150-5210-13D-Water-Rescue-comment-matrix.xlsx",
-    "filename": "draft-150-5210-13D-Water-Rescue-comment-matrix.xlsx",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
+    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
     "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5210-13D-Water-Rescue-comment-matrix.xlsx",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
   "https://www.vansaircraft.com/wp-content/uploads/2026/01/RV-15-Wing-Kit-Sample-Assembly-Instructions.pdf": {
@@ -6851,306 +6863,6 @@
     "final_url": "https://www.vansaircraft.com/wp-content/uploads/2026/01/RV-12-legacy-powerplant_jan_2026.pdf",
     "discovered_from": "https://www.vansaircraft.com/order-a-kit/"
   },
-  "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf": {
-    "sha256": "7b8d37b515afd45c3ae905b94a0a0ba084394aab15f379469703624526f3ae05",
-    "size": 571834,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SSP-875-2.pdf",
-    "filename": "SSP-875-2.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
-    "discovered_from": "https://www.lycoming.com/warranty"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-07/PC-IO-360-B4A_Rev-2.pdf": {
-    "sha256": "f66075b1aee1a2663c8808c6a4680b483e88b3bce3dc3dab43c745c5c1c3a3a4",
-    "size": 1539192,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-IO-360-B4A_Rev-2.pdf",
-    "filename": "PC-IO-360-B4A_Rev-2.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-07/PC-IO-360-B4A_Rev-2.pdf",
-    "discovered_from": "https://www.lycoming.com/io-360-b4a-illustrated-parts-catalog-rev-2"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-06/SB669-HET_Wastegate.pdf": {
-    "sha256": "188cdcb2ba9792dda65eb0dc2a94d4a7c38669f51d8efa62d9b9d651085095fc",
-    "size": 279893,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB669-HET_Wastegate.pdf",
-    "filename": "SB669-HET_Wastegate.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SB669-HET_Wastegate.pdf",
-    "discovered_from": "https://www.lycoming.com/service-bulletin-no-669"
-  },
-  "https://www.lycoming.com/sites/default/files/attachments/SSP-385_Rental_Tool_Catalog.pdf": {
-    "sha256": "34857206768ba413e4989e0cab703c4c5b273807e79a4e012e05cb167fa175fb",
-    "size": 13237787,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SSP-385_Rental_Tool_Catalog.pdf",
-    "filename": "SSP-385_Rental_Tool_Catalog.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/attachments/SSP-385_Rental_Tool_Catalog.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/special-service-publication-no-385"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf": {
-    "sha256": "f068c0007e07fff66daf25b37d3fbf7824cd6bba8f90dda3996cf26677f2990a",
-    "size": 218053,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SL305%20Cam%20Kits.pdf",
-    "filename": "SL305%20Cam%20Kits.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SL305%20Cam%20Kits.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-letter-no-l305"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-06/SL234C%20Tool%20Rental%20Program.pdf": {
-    "sha256": "0a4ea47daa3dcfb19a7958b4ea710ecc98001236f284bfc3913bab9629b1f788",
-    "size": 207307,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SL234C%20Tool%20Rental%20Program.pdf",
-    "filename": "SL234C%20Tool%20Rental%20Program.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-06/SL234C%20Tool%20Rental%20Program.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-letter-no-l234-c"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SI1154AA%20Approved%20Starters%20and%20Alternators.pdf": {
-    "sha256": "c3391a1c1c5d38f022508f240d9ca7fb81bd1cfa033c9f5d9e6f359677b573bd",
-    "size": 355183,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1154AA%20Approved%20Starters%20and%20Alternators.pdf",
-    "filename": "SI1154AA%20Approved%20Starters%20and%20Alternators.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SI1154AA%20Approved%20Starters%20and%20Alternators.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1154-aa"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SB668%20IO-390%20Starter%20Wire%20Interference.pdf": {
-    "sha256": "056329eebfd32910bc7a36f796c12bd7bf20f0b95ac5c6f267275a8def38c5a1",
-    "size": 535621,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB668%20IO-390%20Starter%20Wire%20Interference.pdf",
-    "filename": "SB668%20IO-390%20Starter%20Wire%20Interference.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SB668%20IO-390%20Starter%20Wire%20Interference.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-668"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/PC-CC363i%2C%20CC363i-FP%20Rev%201.pdf": {
-    "sha256": "39f17a37b4519aa0aa4950de3a1b51b696a28e733588d3a3bafcde5c15ca2968",
-    "size": 1337285,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-CC363i%2C%20CC363i-FP%20Rev%201.pdf",
-    "filename": "PC-CC363i%2C%20CC363i-FP%20Rev%201.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/PC-CC363i%2C%20CC363i-FP%20Rev%201.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/cc363icc363i-fp-illustrated-parts-catalog-rev-1"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/PC-TEO-540-C1A%20Rev%207.pdf": {
-    "sha256": "d1b5cd013aeed51f412f19a02040dcfa2a9edf702f67272d5a4674f880d02161",
-    "size": 2286012,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-TEO-540-C1A%20Rev%207.pdf",
-    "filename": "PC-TEO-540-C1A%20Rev%207.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/PC-TEO-540-C1A%20Rev%207.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/teo-540-c1a-engine-illustrated-parts-catalog-rev-7"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SI1125E%20Alternate%20Crankcase%20Parting%20Surface%20Sealants.pdf": {
-    "sha256": "d1701f58368e9a79387ab1656c591c29e969938fce44f4cfaaa9d4bd563d1477",
-    "size": 295971,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1125E%20Alternate%20Crankcase%20Parting%20Surface%20Sealants.pdf",
-    "filename": "SI1125E%20Alternate%20Crankcase%20Parting%20Surface%20Sealants.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SI1125E%20Alternate%20Crankcase%20Parting%20Surface%20Sealants.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1125-e"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SI1595%20Rocker%20Shaft%20Bushings.pdf": {
-    "sha256": "8c7b7fad8d94b6fcfbf3781c03d2b87b74529aaf751059145e7f557a7c6262bc",
-    "size": 245221,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1595%20Rocker%20Shaft%20Bushings.pdf",
-    "filename": "SI1595%20Rocker%20Shaft%20Bushings.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SI1595%20Rocker%20Shaft%20Bushings.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1595"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SL303A%20Airflow%20Performance%20Warranty.pdf": {
-    "sha256": "1c7d6d1bcc254b19b0fb117878473d3c2c4278516e05fa7f0095e959d293488c",
-    "size": 716086,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SL303A%20Airflow%20Performance%20Warranty.pdf",
-    "filename": "SL303A%20Airflow%20Performance%20Warranty.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SL303A%20Airflow%20Performance%20Warranty.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-letter-no-303"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SI1597%20Cylinder%20Head%20Cracking.pdf": {
-    "sha256": "608f8d1bc0450914fe55fc38d579b1e1aac3e1415f3da5c98b672000b88c48e4",
-    "size": 231855,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1597%20Cylinder%20Head%20Cracking.pdf",
-    "filename": "SI1597%20Cylinder%20Head%20Cracking.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SI1597%20Cylinder%20Head%20Cracking.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1597"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf": {
-    "sha256": "647cd518920cbcd6a83c9fefab18756767a95b0f092d87e5615313ab8408a435",
-    "size": 1789027,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "filename": "SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-640"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-03/PC-IO-360-B4A%20Rev%201.pdf": {
-    "sha256": "716e26c054a9289cb41fcccfce03e2837ab574d630a8152c06cc6bbae6a6bbdd",
-    "size": 1552969,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-IO-360-B4A%20Rev%201.pdf",
-    "filename": "PC-IO-360-B4A%20Rev%201.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/PC-IO-360-B4A%20Rev%201.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/io-360-b4a-illustrated-parts-catalog-rev-1"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-03/PC-TIO-540-AK1A%20Rev%201.pdf": {
-    "sha256": "7c3fd0f0e4ad881c78551f971b29baaa060a25a83fa12415ba5d28f6a0405d69",
-    "size": 2089888,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-TIO-540-AK1A%20Rev%201.pdf",
-    "filename": "PC-TIO-540-AK1A%20Rev%201.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/PC-TIO-540-AK1A%20Rev%201.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/tio-540-ak1a-illustrated-parts-catalog-rev-1"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-03/SB667A%20Piston%20Pin%20Replacement.pdf": {
-    "sha256": "2c94a3867f84407854b622bf09fe8aa8f2dde3885f786fed43cad69e03c4cc77",
-    "size": 363855,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB667A%20Piston%20Pin%20Replacement.pdf",
-    "filename": "SB667A%20Piston%20Pin%20Replacement.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/SB667A%20Piston%20Pin%20Replacement.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-667"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-02/SI1575A%20New%20Connecting%20Rod%20Bushing%20and%20Bushing%20Installation%20Instructions.pdf": {
-    "sha256": "3e11eb3b16eb40dfeea93388d608180a0100597bed16bd9c668ebb2dea4c6a72",
-    "size": 262987,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1575A%20New%20Connecting%20Rod%20Bushing%20and%20Bushing%20Installation%20Instructions.pdf",
-    "filename": "SI1575A%20New%20Connecting%20Rod%20Bushing%20and%20Bushing%20Installation%20Instructions.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SI1575A%20New%20Connecting%20Rod%20Bushing%20and%20Bushing%20Installation%20Instructions.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1575"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-02/SI1366B%20Repair%20Procedure%20for%20Worn%20Rocker%20Shaft%20Bushing%20Hole.pdf": {
-    "sha256": "8cb502057d5eb018217c71f7973a13a8f1b984c01ae2096e54aba7bbaf6e9542",
-    "size": 218045,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1366B%20Repair%20Procedure%20for%20Worn%20Rocker%20Shaft%20Bushing%20Hole.pdf",
-    "filename": "SI1366B%20Repair%20Procedure%20for%20Worn%20Rocker%20Shaft%20Bushing%20Hole.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SI1366B%20Repair%20Procedure%20for%20Worn%20Rocker%20Shaft%20Bushing%20Hole.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1366-b"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-02/SI1014P%20Lubricating%20Oil%20Recommendations.pdf": {
-    "sha256": "b2e4390c2d743af70900f0a080c0fb5b5ba4cd3e5fbfe6388fb5e3334ed701b7",
-    "size": 261718,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SI1014P%20Lubricating%20Oil%20Recommendations.pdf",
-    "filename": "SI1014P%20Lubricating%20Oil%20Recommendations.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-02/SI1014P%20Lubricating%20Oil%20Recommendations.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1014-p"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
-    "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
-    "size": 56023,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "filename": "Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "discovered_from": "https://www.lycoming.com/privacy"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2023-05/Customer%20Privacy%20Notice%20-%20Lycoming%202023.pdf": {
-    "sha256": "f829121199189da34022b85337ad53a3adf3eb96f68969b820d27f8dc3fb1481",
-    "size": 113668,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/Customer%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "filename": "Customer%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2023-05/Customer%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "discovered_from": "https://www.lycoming.com/privacy"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2023-05/Supplier%20Privacy%20Notice%20-%20Lycoming%202023.pdf": {
-    "sha256": "3dfc3cf312f54aa12326e7ff2cbd1dd9fc6d3a3a2ffd01346e30d30e8b1b7388",
-    "size": 114521,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/Supplier%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "filename": "Supplier%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2023-05/Supplier%20Privacy%20Notice%20-%20Lycoming%202023.pdf",
-    "discovered_from": "https://www.lycoming.com/privacy"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2023-05/California%20Privacy%20Notice-Lycoming%202023.pdf": {
-    "sha256": "77eab1ec2bfb385f969c679e3507b0bc4a6bca67b20dd367a7608eef8963d1eb",
-    "size": 170830,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/California%20Privacy%20Notice-Lycoming%202023.pdf",
-    "filename": "California%20Privacy%20Notice-Lycoming%202023.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2023-05/California%20Privacy%20Notice-Lycoming%202023.pdf",
-    "discovered_from": "https://www.lycoming.com/privacy"
-  },
   "https://www.flyrotax.com/assets/files/Certificates/DOA_Approval-Certificate_incl-Terms-of-Approval-NEU_200407-1.pdf": {
     "sha256": "113f4d321938f46b7ad1570852e607f472a53730ef1f495ec1642bc031848fc0",
     "size": 364047,
@@ -7283,16 +6995,16 @@
     "final_url": "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-582.pdf",
     "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
   },
-  "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916-1.pdf": {
-    "sha256": "d5c62ab790d7018ebad897de2f0507a6adfceb35641a3e819d3d6e95c6f878b3",
-    "size": 217475,
+  "https://www.flyrotax.com/assets/files/FB-16-012-1_9-ASTM-Compliance-Statement-912-914-915-916-signed-1.pdf": {
+    "sha256": "ee0bbb2d0d592580f8581f4a6e9bf6b744b52e42b1c8a851ce9b7ca08374f8ed",
+    "size": 215204,
     "group": "Rotax",
     "manual_type": "Engine Manual",
-    "local_path": "_downloads/Rotax/ASTM-Compliance-Statement-912-914-915-916-1.pdf",
-    "filename": "ASTM-Compliance-Statement-912-914-915-916-1.pdf",
+    "local_path": "_downloads/Rotax/FB-16-012-1_9-ASTM-Compliance-Statement-912-914-915-916-signed-1.pdf",
+    "filename": "FB-16-012-1_9-ASTM-Compliance-Statement-912-914-915-916-signed-1.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.flyrotax.com/assets/files/ASTM-Compliance-Statement-912-914-915-916-1.pdf",
+    "final_url": "https://www.flyrotax.com/assets/files/FB-16-012-1_9-ASTM-Compliance-Statement-912-914-915-916-signed-1.pdf",
     "discovered_from": "https://www.flyrotax.com/p/about-rotax/certificates"
   },
   "https://www.flyrotax.com/assets/files/TC-Validation-Overview-2026-06.pdf": {
@@ -7632,8 +7344,8 @@
     "discovered_from": "https://hartzellprop.com/services/hartzell-training-classes/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/Coldroll.pdf": {
-    "sha256": "9a433221a582620107aa65f1a045c23d769d7c31c21216ac1dfc9ee56f76f648",
-    "size": 244229,
+    "sha256": "3db0432b1ae86af5bdfcaada3df4c3e2b9d4c3e49a3d20df84cbe5ef8a8ade48",
+    "size": 244220,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Coldroll.pdf",
@@ -7644,8 +7356,8 @@
     "discovered_from": "https://hartzellprop.com/services/technical-support/sample-program-approvals/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/Composite.pdf": {
-    "sha256": "506b7963c9d3d3df0057e95e905d879f4f34507b47416bb6a9fd746dc2cce4a3",
-    "size": 214808,
+    "sha256": "e8c1faadc7db4f9f41813f99df709105871bab7dfd658a6beba444978aeb8aa2",
+    "size": 214816,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Composite.pdf",
@@ -7656,8 +7368,8 @@
     "discovered_from": "https://hartzellprop.com/services/technical-support/sample-program-approvals/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/MV-Mod.pdf": {
-    "sha256": "408d1bead3736134511f891b8131766d71ee5abab24c7bbabe6237a7cf2c8086",
-    "size": 127614,
+    "sha256": "0ac272d01c1daf19460ac99e7b5e1d3c20ff8ff365729429944386228223a6f5",
+    "size": 127191,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/MV-Mod.pdf",
@@ -7680,8 +7392,8 @@
     "discovered_from": "https://hartzellprop.com/services/technical-support/sample-program-approvals/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/PC-Knob-SP.pdf": {
-    "sha256": "1f4390a2d8fd49a63c2eaeab181ccc21fc4653123eabdb0c6793782b22c1c7e2",
-    "size": 208926,
+    "sha256": "c20609cbe548f2e5aa0461fafdd075bc33dcd2f9ab284afed495b555763e77e6",
+    "size": 209086,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/PC-Knob-SP.pdf",
@@ -7692,8 +7404,8 @@
     "discovered_from": "https://hartzellprop.com/services/technical-support/sample-program-approvals/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/Steel-Hub-Flange.pdf": {
-    "sha256": "8dd26100ca02501a6efdcdb269ce2f03f47c8615016d7a61640905a2872551be",
-    "size": 101621,
+    "sha256": "4b6ae6c50760d6fa8116e42e1ad1069f45c9876959e37f99a35de25d12416ca2",
+    "size": 101196,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Steel-Hub-Flange.pdf",
@@ -9755,16 +9467,16 @@
     "final_url": "https://dynonavionics.com/downloads/order_form-042026.pdf",
     "discovered_from": "https://dynonavionics.com/home.php"
   },
-  "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_April-2026.xlsx": {
-    "sha256": "5b15f4f15abc1be73bdc86c7d7f87d5112faa01a029b9584aa38df8bfd81ec30",
-    "size": 86455,
+  "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx": {
+    "sha256": "ea49dac97a5acbaa121c32cfbb30e22209b27da4660ac3ca4aa3ea3978ea21ce",
+    "size": 89287,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_April-2026.xlsx",
-    "filename": "SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_April-2026.xlsx",
+    "local_path": "_downloads/Dynon Avionics/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
+    "filename": "SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
     "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_April-2026.xlsx",
+    "final_url": "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
     "discovered_from": "https://dynonavionics.com/home.php"
   },
   "https://dynonavionics.com/downloads/order_form-032025.pdf": {
@@ -9815,52 +9527,64 @@
     "final_url": "https://dynonavionics.com/includes/presentations/Planning-for-Success-102_Oshkosh-2024.pdf",
     "discovered_from": "https://dynonavionics.com/presentations.php"
   },
-  "https://dynonavionics.com/includes/literature/Dynon-Catalog-032026.pdf": {
-    "sha256": "073714fc71afe8d807b6a90b51cfb09ed5f401cdeafa0776956bce664abb3431",
-    "size": 39392576,
+  "https://dynonavionics.com/includes/literature/Dynon-Catalog-072026.pdf": {
+    "sha256": "0649faec9066d7de48cc377c73ebb413a30de54eaac48bed2382f308b8f77869",
+    "size": 3617174,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/Dynon-Catalog-032026.pdf",
-    "filename": "Dynon-Catalog-032026.pdf",
+    "local_path": "_downloads/Dynon Avionics/Dynon-Catalog-072026.pdf",
+    "filename": "Dynon-Catalog-072026.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/includes/literature/Dynon-Catalog-032026.pdf",
+    "final_url": "https://dynonavionics.com/includes/literature/Dynon-Catalog-072026.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
-  "https://dynonavionics.com/includes/literature/Certified-catalog-032026.pdf": {
-    "sha256": "0c22917fef77c046cafa18fd82b42a56cba83f421c5d635f90819ddb79a8a048",
-    "size": 10660219,
+  "https://dynonavionics.com/includes/literature/Certified-catalog-072026.pdf": {
+    "sha256": "040c4388fc7440aa006f37ba018fc932ae2b83906cb8b419accc91c168ac64eb",
+    "size": 1227833,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/Certified-catalog-032026.pdf",
-    "filename": "Certified-catalog-032026.pdf",
+    "local_path": "_downloads/Dynon Avionics/Certified-catalog-072026.pdf",
+    "filename": "Certified-catalog-072026.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/includes/literature/Certified-catalog-032026.pdf",
+    "final_url": "https://dynonavionics.com/includes/literature/Certified-catalog-072026.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
-  "https://dynonavionics.com/includes/literature/AFS-Catalog-032026.pdf": {
-    "sha256": "48592e4fa0c8ba75714f60cad6a5e1f95e97ea1154e72228f33141254d60a1ae",
-    "size": 28641224,
+  "https://dynonavionics.com/includes/literature/AFS-Catalog-072026.pdf": {
+    "sha256": "4162f436e0b9b2d86c672ccbac78cf9bb8267c620276bc3c37062cc752704711",
+    "size": 2667697,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/AFS-Catalog-032026.pdf",
-    "filename": "AFS-Catalog-032026.pdf",
+    "local_path": "_downloads/Dynon Avionics/AFS-Catalog-072026.pdf",
+    "filename": "AFS-Catalog-072026.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/includes/literature/AFS-Catalog-032026.pdf",
+    "final_url": "https://dynonavionics.com/includes/literature/AFS-Catalog-072026.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
-  "https://dynonavionics.com/includes/literature/SV-HDX1200-Brochure-Web.pdf": {
-    "sha256": "09576fc6c20a99b03c1e424506cf2e6751e12b185752d94712f511b389caa125",
-    "size": 1052990,
+  "https://dynonavionics.com/includes/literature/IFR-GPS-Navigation-072026.pdf": {
+    "sha256": "1a48e9791c380b3862c3577162d7cab736d588b1f52808a21c9f99f6b66ff342",
+    "size": 265341,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/SV-HDX1200-Brochure-Web.pdf",
-    "filename": "SV-HDX1200-Brochure-Web.pdf",
+    "local_path": "_downloads/Dynon Avionics/IFR-GPS-Navigation-072026.pdf",
+    "filename": "IFR-GPS-Navigation-072026.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/includes/literature/SV-HDX1200-Brochure-Web.pdf",
+    "final_url": "https://dynonavionics.com/includes/literature/IFR-GPS-Navigation-072026.pdf",
+    "discovered_from": "https://dynonavionics.com/product-literature.php"
+  },
+  "https://dynonavionics.com/includes/literature/EMS-Stand-alone-One-Sheet-072026.pdf": {
+    "sha256": "e0687ebcaedfa853b4c72b72fe816823646f503d976e5e42e4fbb2236e005c27",
+    "size": 204673,
+    "group": "Dynon Avionics",
+    "manual_type": "Avionics Manual",
+    "local_path": "_downloads/Dynon Avionics/EMS-Stand-alone-One-Sheet-072026.pdf",
+    "filename": "EMS-Stand-alone-One-Sheet-072026.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://dynonavionics.com/includes/literature/EMS-Stand-alone-One-Sheet-072026.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
   "https://dynonavionics.com/includes/literature/ACM-Jumpstart-ADVANCEDPANEL-Web.pdf": {
@@ -9875,16 +9599,16 @@
     "final_url": "https://dynonavionics.com/includes/literature/ACM-Jumpstart-ADVANCEDPANEL-Web.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
-  "https://dynonavionics.com/includes/literature/SV-HDX-OnePageBrochure-012017.pdf": {
-    "sha256": "1795bc8b8703850d733335d424c97185cdc758ba1a5ea868c949b83e82bc2ce7",
-    "size": 3606962,
+  "https://dynonavionics.com/includes/literature/SV-HDX1200-Brochure-Web.pdf": {
+    "sha256": "09576fc6c20a99b03c1e424506cf2e6751e12b185752d94712f511b389caa125",
+    "size": 1052990,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/SV-HDX-OnePageBrochure-012017.pdf",
-    "filename": "SV-HDX-OnePageBrochure-012017.pdf",
+    "local_path": "_downloads/Dynon Avionics/SV-HDX1200-Brochure-Web.pdf",
+    "filename": "SV-HDX1200-Brochure-Web.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/includes/literature/SV-HDX-OnePageBrochure-012017.pdf",
+    "final_url": "https://dynonavionics.com/includes/literature/SV-HDX1200-Brochure-Web.pdf",
     "discovered_from": "https://dynonavionics.com/product-literature.php"
   },
   "https://dynonavionics.com/includes/literature/D3-Flyer.pdf": {
@@ -11459,18 +11183,6 @@
     "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Cherokee_180_Checklist_bookformat-DBBIV.doc",
     "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
   },
-  "https://www.mrwebman.com/aviation/piper/manuals/Manuel%20PA28E.pdf": {
-    "sha256": "ae20fb9a8a8d88ff0638313d9dd1051519f904de54f05e50be5ec89fd318b2e9",
-    "size": 1636342,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Manuel%20PA28E.pdf",
-    "filename": "Manuel%20PA28E.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Manuel%20PA28E.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
-  },
   "https://www.mrwebman.com/aviation/piper/manuals/PA-28-140_checklist.pdf": {
     "sha256": "649a730f4dd96ad55b91b1befc7a4ccacf5ef8226e278631cd1085c1e569b39c",
     "size": 208284,
@@ -11841,18 +11553,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_121_122.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
-  },
-  "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf": {
-    "sha256": "d06693d896933dc50b8ad5405c62cc09b1119ec96339d684d70e0c47f2913ff1",
-    "size": 93648355,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_Nav_824_825.pdf",
-    "filename": "Narco_Nav_824_825.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_Nav_824_825.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
   },
   "https://www.mrwebman.com/aviation/avionic/narko/Narco_UGR_GS_Receivers.pdf": {
@@ -12345,6 +12045,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_74-76.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM"
+  },
+  "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_78-86.pdf": {
+    "sha256": "20a6e8b3cb0c7f7cc4bd2ae7f9eeb03a90a53711bcd9b02dcf50159069874d77",
+    "size": 31054981,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/182_pm_78-86.pdf",
+    "filename": "182_pm_78-86.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/182_pm_78-86.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/C182SM"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/C182SM/C182SM69.pdf": {
