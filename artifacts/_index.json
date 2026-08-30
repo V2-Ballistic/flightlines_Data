@@ -1619,6 +1619,18 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7930.2U_Chg_1_dtd_8_10_25_NOTAM.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
+  "https://www.faa.gov/documentLibrary/media/Order/7930.2U_Chg_2_dtd_9_30_26_Final.pdf": {
+    "sha256": "c8d83f4acdf05986cb324c2dedc49c890cb91ba61a9026c60e74ef082017e451",
+    "size": 1574100,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/7930.2U_Chg_2_dtd_9_30_26_Final.pdf",
+    "filename": "7930.2U_Chg_2_dtd_9_30_26_Final.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7930.2U_Chg_2_dtd_9_30_26_Final.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
   "https://www.faa.gov/air_traffic/publications/media/atps_oct_2025.pdf": {
     "sha256": "3b6dd453d7478fbeacfc1e7425d5a4f9231336d6abdfb4b521408bee69e5b50b",
     "size": 984485,
@@ -6923,6 +6935,18 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
     "discovered_from": "https://www.lycoming.com/warranty"
   },
+  "https://www.lycoming.com/sites/default/files/file/2026-08/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf": {
+    "sha256": "6a73ddd4137e6339f649d66e33fc4a8bbabcba4626a6e99aa1a1a4a0140fea48",
+    "size": 1151618,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
+    "filename": "SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-08/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-671"
+  },
   "https://www.lycoming.com/sites/default/files/file/2026-08/SB670%20Reprint%20of%20HET%20Alert%20Service%20Bulletin%20No.%20232_compressed.pdf": {
     "sha256": "f9b7df54fac284e41b4b661ff5e60cd776ba72ad58504a1fcadae781e960437b",
     "size": 1089407,
@@ -7150,18 +7174,6 @@
     "status": "ok",
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/PC-IO-360-B4A%20Rev%201.pdf",
     "discovered_from": "https://www.lycoming.com/publications/io-360-b4a-illustrated-parts-catalog-rev-1"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-03/PC-TIO-540-AK1A%20Rev%201.pdf": {
-    "sha256": "7c3fd0f0e4ad881c78551f971b29baaa060a25a83fa12415ba5d28f6a0405d69",
-    "size": 2089888,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-TIO-540-AK1A%20Rev%201.pdf",
-    "filename": "PC-TIO-540-AK1A%20Rev%201.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/PC-TIO-540-AK1A%20Rev%201.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/tio-540-ak1a-illustrated-parts-catalog-rev-1"
   },
   "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
     "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
@@ -11531,18 +11543,6 @@
     "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Cherokee140_owners_handbook.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
   },
-  "https://www.mrwebman.com/aviation/piper/manuals/Cherokee_180_Checklist_bookformat-DBBIV.doc": {
-    "sha256": "200849f9620d70a36c6bcbdad6dcfa1fddbe468552a72fea51e99ea80067bf50",
-    "size": 56832,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Cherokee_180_Checklist_bookformat-DBBIV.doc",
-    "filename": "Cherokee_180_Checklist_bookformat-DBBIV.doc",
-    "content_type": "application/msword",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Cherokee_180_Checklist_bookformat-DBBIV.doc",
-    "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
-  },
   "https://www.mrwebman.com/aviation/piper/manuals/Manuel%20PA28E.pdf": {
     "sha256": "ae20fb9a8a8d88ff0638313d9dd1051519f904de54f05e50be5ec89fd318b2e9",
     "size": 1636342,
@@ -11661,18 +11661,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part5.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
-  },
-  "https://www.mrwebman.com/aviation/piper/manuals/Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part6.pdf": {
-    "sha256": "e24aefb859fea30963f5ebd3977ce7b70665008c906612ce613ba17e9562404f",
-    "size": 4938420,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part6.pdf",
-    "filename": "Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part6.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/piper/manuals/Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part6.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/piper/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/piper/manuals/Piper%20753-582%20Cherokee%20Parts%20Catalog%202009_Part7.pdf": {
@@ -11831,18 +11819,6 @@
     "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_3_Emergency_Procedures.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
   },
-  "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_3a_Abnormal_Procedures.pdf": {
-    "sha256": "3d071a7c3018bcccd8b17522334885d2087c56388ac04c9f1c0059caa9c6b195",
-    "size": 1943176,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/raytheon-1900D-Section_3a_Abnormal_Procedures.pdf",
-    "filename": "raytheon-1900D-Section_3a_Abnormal_Procedures.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_3a_Abnormal_Procedures.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
-  },
   "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_4_Normal_Procedures.pdf": {
     "sha256": "a5748f7c97cb9e9a88b1f0d25912113c1b8cdc6eda15720c61ddd80e589409e1",
     "size": 633203,
@@ -11854,6 +11830,18 @@
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/raytheon/raytheon-1900D-Section_4_Normal_Procedures.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/raytheon/index.html"
+  },
+  "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf": {
+    "sha256": "446423ac382675b98f6a554ed3e16d451da4a0f9dc5df68f1147b72c59126363",
+    "size": 118179468,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/Narco_CP_IXX_Audio_Panels.pdf",
+    "filename": "Narco_CP_IXX_Audio_Panels.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/avionic/narko/Narco_CP_IXX_Audio_Panels.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/avionic/index.html"
   },
   "https://www.mrwebman.com/aviation/avionic/narko/Narco_DME_195.pdf": {
     "sha256": "6f5b1fc0daf487da314eb2a7d5ad8fbd734a532fdb465150a0ab2967b673b6ab",
@@ -12227,6 +12215,18 @@
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/172_sm_69-76.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
+  "https://www.mrwebman.com/aviation/cessna/manuals/172_sm_77.pdf": {
+    "sha256": "c27bf96f27bdfc6617ffc8343ecc8c504d6573c04444132b645c41d94396ed98",
+    "size": 26571103,
+    "group": "MrWebman - Cessna Legacy",
+    "manual_type": "AMM / Service Manual",
+    "local_path": "_downloads/MrWebman - Cessna Legacy/172_sm_77.pdf",
+    "filename": "172_sm_77.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/172_sm_77.pdf",
+    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
+  },
   "https://www.mrwebman.com/aviation/cessna/manuals/1971_Cardinal_POH.pdf": {
     "sha256": "f434903fdc7f6cdcb90af3926f2686610c7d72f57a750482747d4901e05f2045",
     "size": 3156404,
@@ -12263,18 +12263,6 @@
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/177_sm_68-75.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
-  "https://www.mrwebman.com/aviation/cessna/manuals/180-182_pm_53-62.pdf": {
-    "sha256": "b5be9ff8d742368112c26678df6340cb7083af5dfce88bf8ada387d15c490940",
-    "size": 25409416,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/180-182_pm_53-62.pdf",
-    "filename": "180-182_pm_53-62.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/180-182_pm_53-62.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
-  },
   "https://www.mrwebman.com/aviation/cessna/manuals/180-182_pm_pre63.pdf": {
     "sha256": "5e48ab9848c565e853858caab40d619968a4d4c6beea8582f6a26e15b8468b42",
     "size": 32803261,
@@ -12297,18 +12285,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/180-185_pm_61-73.pdf",
-    "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
-  },
-  "https://www.mrwebman.com/aviation/cessna/manuals/180k_poh.pdf": {
-    "sha256": "45f4f8908dcde3e92fd2035d23b0632ad8dcebc3b46509fca7baad86a6d0a997",
-    "size": 4540229,
-    "group": "MrWebman - Cessna Legacy",
-    "manual_type": "AMM / Service Manual",
-    "local_path": "_downloads/MrWebman - Cessna Legacy/180k_poh.pdf",
-    "filename": "180k_poh.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mrwebman.com/aviation/cessna/manuals/180k_poh.pdf",
     "discovered_from": "https://www.mrwebman.com/aviation/cessna/manuals/index.html"
   },
   "https://www.mrwebman.com/aviation/cessna/manuals/182_cl.pdf": {
@@ -14136,8 +14112,8 @@
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/Operation-Manuals/list_man.pdf": {
-    "sha256": "8b1c492873de0ae17ab65c72128957a17ea6e671aacedfd3dca1720e3f4cb622",
-    "size": 268268,
+    "sha256": "44c723189be898a60b2e8525ba86b71f778a14a6238de15a7f1faeb180f786a5",
+    "size": 268090,
     "group": "MT-Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/MT-Propeller/list_man.pdf",
@@ -14424,8 +14400,8 @@
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/Operation-Manuals/e-3760.pdf": {
-    "sha256": "2c0dff19fb6ddc75f3bccbdff8f06951b4034fd9da41c0a95a080d5c61204ade",
-    "size": 1554737,
+    "sha256": "225751b96b0561968c8a641ba79a926df2db5081591a2f16e85852f9b46b4bbd",
+    "size": 1747494,
     "group": "MT-Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/MT-Propeller/e-3760.pdf",
@@ -14472,8 +14448,8 @@
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/list_gov_e-1057.pdf": {
-    "sha256": "433b705f8dbf376f5cf6e988b4473c3f17cbf942e8f68e8b5755c12ac37b4c84",
-    "size": 488400,
+    "sha256": "ea6c46f69423b62bbb00e8579a5d49160d9b57095c79943ca840ff62b12db4a7",
+    "size": 713238,
     "group": "MT-Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/MT-Propeller/list_gov_e-1057.pdf",
@@ -14507,6 +14483,18 @@
     "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-2096.pdf",
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
+  "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-1782.pdf": {
+    "sha256": "c252c421c09e8188048015e8ce47dfa57f47b400658dbd948814d260aa284207",
+    "size": 174192,
+    "group": "MT-Propeller",
+    "manual_type": "Propeller Manual",
+    "local_path": "_downloads/MT-Propeller/e-1782.pdf",
+    "filename": "e-1782.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-1782.pdf",
+    "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
+  },
   "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-4158.pdf": {
     "sha256": "8cd0d7b8ea934ead388e5f1e93112203bf294c8288d6a92e456b2b89caf2ddb5",
     "size": 117814,
@@ -14529,6 +14517,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-3666_e-3660.pdf",
+    "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
+  },
+  "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-4508.pdf": {
+    "sha256": "f5c5830c84ac0099f4dd7315d1df17c02e1e665f9e909ee16061eec7263f2b52",
+    "size": 182099,
+    "group": "MT-Propeller",
+    "manual_type": "Propeller Manual",
+    "local_path": "_downloads/MT-Propeller/e-4508.pdf",
+    "filename": "e-4508.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-4508.pdf",
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/ICA/e-1372.pdf": {

@@ -1,5 +1,5 @@
 # Login-Required Sources — Manual Action Needed
-Generated: 2026-08-23T04:15:27.096157+00:00
+Generated: 2026-08-30T04:08:46.519387+00:00
 
 The following sources were **not** crawled because they require authentication.
 To include their documents, obtain access credentials and download manually.
