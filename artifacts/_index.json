@@ -2592,8 +2592,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.docx": {
-    "sha256": "6f3827b7ddcbd93e8082e1c896d2f7e950cd698d21ac0a62dc69f40a38ff2a8e",
-    "size": 178300,
+    "sha256": "79c67380b1c7712a5f995256f4b6edc65ba1dfd9657e9c139b34d0f1890ba15b",
+    "size": 177549,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.docx",
@@ -2604,8 +2604,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.pdf": {
-    "sha256": "751bba1d719bb91975a63eef4d92f1759b23b77a1ea0a1f9ea6459bfb1c71fa0",
-    "size": 492064,
+    "sha256": "0e432e52006858deb67f05f45f210389f17bb95df5544017acbe3574c2920293",
+    "size": 490517,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.pdf",
@@ -5831,42 +5831,6 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43.13-1B_w-chg1.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/99861"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5300-14E-Aircraft-Deicing-industry.pdf": {
-    "sha256": "9b94f27c5fa91c935958ec5f368c1a1b172a7db8ff6015eefc50eeafba408116",
-    "size": 909499,
-    "group": "FAA Advisory Circulars",
-    "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-ac-150-5300-14E-Aircraft-Deicing-industry.pdf",
-    "filename": "draft-ac-150-5300-14E-Aircraft-Deicing-industry.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5300-14E-Aircraft-Deicing-industry.pdf",
-    "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5300-14E-Aircraft-Deicing-ind-ltr.pdf": {
-    "sha256": "56634403b4479303830266170b706616ca97ab78074889a270b7cb198b88c6e5",
-    "size": 120690,
-    "group": "FAA Advisory Circulars",
-    "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-ac-150-5300-14E-Aircraft-Deicing-ind-ltr.pdf",
-    "filename": "draft-ac-150-5300-14E-Aircraft-Deicing-ind-ltr.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5300-14E-Aircraft-Deicing-ind-ltr.pdf",
-    "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5300-14E-Aircraft-Deicing-ind-comment-matrix.xlsx": {
-    "sha256": "d32feaa7cdc6cde920ea7c2cd9865714b1bff481198b2098afcecff9bbcc3bfe",
-    "size": 34607,
-    "group": "FAA Advisory Circulars",
-    "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-150-5300-14E-Aircraft-Deicing-ind-comment-matrix.xlsx",
-    "filename": "draft-150-5300-14E-Aircraft-Deicing-ind-comment-matrix.xlsx",
-    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-150-5300-14E-Aircraft-Deicing-ind-comment-matrix.xlsx",
-    "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
-  },
   "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf": {
     "sha256": "bbf4b3fee762f3feb06d720a32eef7a32bc67a651dfa9686ac4db253da14204e",
     "size": 386700,
@@ -6959,17 +6923,17 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
     "discovered_from": "https://www.lycoming.com/warranty"
   },
-  "https://www.lycoming.com/sites/default/files/file/2026-08/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf": {
-    "sha256": "6a73ddd4137e6339f649d66e33fc4a8bbabcba4626a6e99aa1a1a4a0140fea48",
-    "size": 1151618,
+  "https://www.lycoming.com/sites/default/files/file/2026-09/SB671A%20Reprint%20of%20HET%20ASB%20No.%20233_compressed%20%281%29.pdf": {
+    "sha256": "75acaf70755feeb6bc9cddd0d725c5c99786343721b4d0d0c305e6aa0b12c581",
+    "size": 756930,
     "group": "Lycoming",
     "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
-    "filename": "SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
+    "local_path": "_downloads/Lycoming/SB671A%20Reprint%20of%20HET%20ASB%20No.%20233_compressed%20%281%29.pdf",
+    "filename": "SB671A%20Reprint%20of%20HET%20ASB%20No.%20233_compressed%20%281%29.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-08/SB671%20Reprint%20of%20HET%20ASB%20No.%20233_v2.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-671"
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-09/SB671A%20Reprint%20of%20HET%20ASB%20No.%20233_compressed%20%281%29.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-671-0"
   },
   "https://www.lycoming.com/sites/default/files/file/2026-08/SB670%20Reprint%20of%20HET%20Alert%20Service%20Bulletin%20No.%20232_compressed.pdf": {
     "sha256": "f9b7df54fac284e41b4b661ff5e60cd776ba72ad58504a1fcadae781e960437b",
@@ -9863,16 +9827,16 @@
     "final_url": "https://dynonavionics.com/downloads/order_form-042026.pdf",
     "discovered_from": "https://dynonavionics.com/home.php"
   },
-  "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx": {
-    "sha256": "ea49dac97a5acbaa121c32cfbb30e22209b27da4660ac3ca4aa3ea3978ea21ce",
-    "size": 89287,
+  "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_Sept-2026.xlsx": {
+    "sha256": "44fda7f6e680f29d8d73f748fc289c178dde42624158f070cd75654a17143ef8",
+    "size": 89476,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
-    "filename": "SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
+    "local_path": "_downloads/Dynon Avionics/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_Sept-2026.xlsx",
+    "filename": "SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_Sept-2026.xlsx",
     "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_July-2026.xlsx",
+    "final_url": "https://dynonavionics.com/downloads/pricesheets/SkyView-HDX-Experimental-Equipment-and-Pricing-Sheet_Sept-2026.xlsx",
     "discovered_from": "https://dynonavionics.com/home.php"
   },
   "https://dynonavionics.com/downloads/order_form-032025.pdf": {
