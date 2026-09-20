@@ -1487,18 +1487,6 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_7400.10H_Long_Order_-_Final_-_signed.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7400.11K_Basic_dtd_9_15_25.pdf": {
-    "sha256": "d97bb081fcd0f8e0b9a04b92f46cd23e66b8575ee123430966365dd7baa33eca",
-    "size": 18138724,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/FAA_Order_JO_7400.11K_Basic_dtd_9_15_25.pdf",
-    "filename": "FAA_Order_JO_7400.11K_Basic_dtd_9_15_25.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7400.11K_Basic_dtd_9_15_25.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
   "https://www.faa.gov/documentLibrary/media/Order/2026-07-30_Order_JO_7400.11M_Airspace_Designations_and_Reporting_Points_FINAL.pdf": {
     "sha256": "446bd2b5bee847e2502a610078a8658ef4a40c0470556268801efa7ca3e27ef7",
     "size": 6328726,
@@ -1917,18 +1905,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/planning_capacity/ARP-interim-Spaceport-Guidance.pdf",
-    "discovered_from": "https://www.faa.gov/airports/aip/"
-  },
-  "https://www.faa.gov/sites/faa.gov/files/airports/airport_compliance/relocation_assistance/land-options.pdf": {
-    "sha256": "14f09600ea882ebc5f006b9dfcfead3aaee8adc9abb9373a3dba9ffb6d8b3c5c",
-    "size": 93043,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/land-options.pdf",
-    "filename": "land-options.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/airport_compliance/relocation_assistance/land-options.pdf",
     "discovered_from": "https://www.faa.gov/airports/aip/"
   },
   "https://www.faa.gov/airports/airport_compliance/compliance_guidance/arp-cgl-2026-01-single-audit-program.pdf": {
@@ -2352,8 +2328,8 @@
     "discovered_from": "https://www.faa.gov/airports/environmental/"
   },
   "https://www.faa.gov/airports/airport_safety/wildlife/arp-Wildlife-Strike-Report-1990-2025.pdf": {
-    "sha256": "18c84f35c68fc66888fb12085229996a8ada92cd3f7e1e8d87024983962c3231",
-    "size": 16282746,
+    "sha256": "2be855089d4605604b324202e790512cb33f997904f3fee26cd26ec3c1bb7c6d",
+    "size": 16054051,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/arp-Wildlife-Strike-Report-1990-2025.pdf",
@@ -10104,8 +10080,8 @@
     "discovered_from": "https://dynonavionics.com/skyview-documentation.php"
   },
   "https://dynonavionics.com/includes/guides/skyview/SkyView_System_Installation_Guide-Rev_AX.pdf": {
-    "sha256": "7ba7d48d40ea4062cc0d1922a827fb0dcc34e27a8a4204fcae97976e91348e5f",
-    "size": 24477425,
+    "sha256": "3880f3192b724290e09e08f99f7b9e35983c95399baa55adc871504407db2f14",
+    "size": 24425920,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
     "local_path": "_downloads/Dynon Avionics/SkyView_System_Installation_Guide-Rev_AX.pdf",
@@ -11195,28 +11171,40 @@
     "final_url": "https://dynonavionics.com/drawings/PDF/105634-000-RevA-CUSTOMER-DRAWING-SV-XPNDR-263.pdf",
     "discovered_from": "https://dynonavionics.com/drawings-cad-models.php"
   },
-  "https://dynonavionics.com/downloads/PDF/Customer Drawing - SV-GPS-2020.PDF": {
-    "sha256": "79635c761940eb14634a5716293f10ecd77f4d007e39bbc9142ffc3d5641486d",
-    "size": 122681,
+  "https://dynonavionics.com/drawings/PDF/SV-GPS-2020_GPS_Antenna_Receiver_Module_RevA.pdf": {
+    "sha256": "f8fe2fa20c6afe53033789c0aef8f653b4d7e0fe811dd0326758269298ac7291",
+    "size": 133141,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/Customer%20Drawing%20-%20SV-GPS-2020.PDF",
-    "filename": "Customer%20Drawing%20-%20SV-GPS-2020.PDF",
+    "local_path": "_downloads/Dynon Avionics/SV-GPS-2020_GPS_Antenna_Receiver_Module_RevA.pdf",
+    "filename": "SV-GPS-2020_GPS_Antenna_Receiver_Module_RevA.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/downloads/PDF/Customer%20Drawing%20-%20SV-GPS-2020.PDF",
+    "final_url": "https://dynonavionics.com/drawings/PDF/SV-GPS-2020_GPS_Antenna_Receiver_Module_RevA.pdf",
     "discovered_from": "https://dynonavionics.com/drawings-cad-models.php"
   },
-  "https://dynonavionics.com/downloads/PDF/Customer Drawing - SV-GPS-250.PDF": {
-    "sha256": "53b376ffa7ffb3a652b41e4b0c9f5226bf3469d3b9afb57171507f56825f22f9",
-    "size": 107363,
+  "https://dynonavionics.com/drawings/PDF/SV-GPS-250_GPS_Antenna_Receiver_Module_RevA.pdf": {
+    "sha256": "abc118a4c7f7bddb27b0c5783cb1ffad28a63aada8fbe72d3de0047abfb25276",
+    "size": 106993,
     "group": "Dynon Avionics",
     "manual_type": "Avionics Manual",
-    "local_path": "_downloads/Dynon Avionics/Customer%20Drawing%20-%20SV-GPS-250.PDF",
-    "filename": "Customer%20Drawing%20-%20SV-GPS-250.PDF",
+    "local_path": "_downloads/Dynon Avionics/SV-GPS-250_GPS_Antenna_Receiver_Module_RevA.pdf",
+    "filename": "SV-GPS-250_GPS_Antenna_Receiver_Module_RevA.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://dynonavionics.com/downloads/PDF/Customer%20Drawing%20-%20SV-GPS-250.PDF",
+    "final_url": "https://dynonavionics.com/drawings/PDF/SV-GPS-250_GPS_Antenna_Receiver_Module_RevA.pdf",
+    "discovered_from": "https://dynonavionics.com/drawings-cad-models.php"
+  },
+  "https://dynonavionics.com/drawings/PDF/GPS_Doubler_Plate_SV-GPS-250_and_SV-GPS-2020_RevA.pdf": {
+    "sha256": "f9e0cc239c855b4fd6c6010dded65e8d61405f7c502cb2f889c925e08646dd10",
+    "size": 86983,
+    "group": "Dynon Avionics",
+    "manual_type": "Avionics Manual",
+    "local_path": "_downloads/Dynon Avionics/GPS_Doubler_Plate_SV-GPS-250_and_SV-GPS-2020_RevA.pdf",
+    "filename": "GPS_Doubler_Plate_SV-GPS-250_and_SV-GPS-2020_RevA.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://dynonavionics.com/drawings/PDF/GPS_Doubler_Plate_SV-GPS-250_and_SV-GPS-2020_RevA.pdf",
     "discovered_from": "https://dynonavionics.com/drawings-cad-models.php"
   },
   "https://dynonavionics.com/downloads/PDF/Customer Drawing - SV-COM-425 Remote VHF COM Module.PDF": {
