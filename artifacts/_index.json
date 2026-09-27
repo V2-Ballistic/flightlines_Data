@@ -11709,7 +11709,7 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mt-propeller.com/userdata/Fotos-div/AD-Announcement.pdf",
-    "discovered_from": "https://www.mt-propeller.com/mt/en/unsere-news/"
+    "discovered_from": "https://www.mt-propeller.com/mt/en/news/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/Service-Bulletins/list_sbs.pdf": {
     "sha256": "baa43946ce3bd0bd17523bf9889de70a93b4e5453b03cdced491f8f1b0eef753",
@@ -12204,8 +12204,8 @@
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/Service-Letters/list_sle.pdf": {
-    "sha256": "8e4aea39597b0c118927d0500cc0fff6e4ca6a4f851ee239e2ebed647f762313",
-    "size": 331666,
+    "sha256": "b28ea9e7848abe68ff607f02d82fc097bd787147be8b46686cdc82c0994dc5e1",
+    "size": 414340,
     "group": "MT-Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/MT-Propeller/list_sle.pdf",
@@ -12657,18 +12657,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/Service-Letters/sl43.pdf",
-    "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
-  },
-  "https://www.mt-propeller.com/userdata/Service-Documents/Service-Letters/sl44.pdf": {
-    "sha256": "2e3200802dd7b5a46228c96440d69791608912c5a3acbdb2a46d361facbfefa1",
-    "size": 28236,
-    "group": "MT-Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/MT-Propeller/sl44.pdf",
-    "filename": "sl44.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.mt-propeller.com/userdata/Service-Documents/Service-Letters/sl44.pdf",
     "discovered_from": "https://www.mt-propeller.com/mt/en/service/service-doc/"
   },
   "https://www.mt-propeller.com/userdata/Service-Documents/Service-Letters/sl46.pdf": {
