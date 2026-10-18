@@ -815,16 +815,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_3120.4S_AdminUpdate_VP_--Correct_Updated_Version-Dec_6.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/JO_3120.29C_with_Chg_1.pdf": {
-    "sha256": "866d57f6d627b96928b15d1051f7d9ea7822dad8abb11cf959691a5ab84acaa5",
-    "size": 1809443,
+  "https://www.faa.gov/documentLibrary/media/Order/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf": {
+    "sha256": "4ccfe5d365afd33cfdee0e7d8421d08ae5c4f872015a0d1a2cca8b9384b85382",
+    "size": 808007,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/JO_3120.29C_with_Chg_1.pdf",
-    "filename": "JO_3120.29C_with_Chg_1.pdf",
+    "local_path": "_downloads/FAA Handbooks/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
+    "filename": "2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_3120.29C_with_Chg_1.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/JO_3400_20.pdf": {
@@ -2447,42 +2447,6 @@
     "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_74_20_electronic_submissions.pdf",
     "discovered_from": "https://www.faa.gov/airports/pfc/"
   },
-  "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_73_20_streamlined_procedures.pdf": {
-    "sha256": "612f70dd2a77ff82d80d4dd3ec7323647c5f7b2735487ff9655eaa49957bb082",
-    "size": 758024,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/pfc_73_20_streamlined_procedures.pdf",
-    "filename": "pfc_73_20_streamlined_procedures.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_73_20_streamlined_procedures.pdf",
-    "discovered_from": "https://www.faa.gov/airports/pfc/"
-  },
-  "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_72_19_Reauthorization.pdf": {
-    "sha256": "d0927ecca01b129618a7f06e6d5393336d0c9baca989a3216e9ce563e247b083",
-    "size": 224881,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/pfc_72_19_Reauthorization.pdf",
-    "filename": "pfc_72_19_Reauthorization.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_72_19_Reauthorization.pdf",
-    "discovered_from": "https://www.faa.gov/airports/pfc/"
-  },
-  "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_71_19_oig_audits.pdf": {
-    "sha256": "9ab2cad23a9f4b1d8a99548280d40313d6a689a01fa0263e5d021e5d84919535",
-    "size": 41929,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/pfc_71_19_oig_audits.pdf",
-    "filename": "pfc_71_19_oig_audits.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/sites/faa.gov/files/airports/pfc/pfc_updates/pfc_71_19_oig_audits.pdf",
-    "discovered_from": "https://www.faa.gov/airports/pfc/"
-  },
   "https://www.faa.gov/sites/faa.gov/files/airports/resources/federal_register_notices/pfc_72fr28837.pdf": {
     "sha256": "445e653bf89a9ba6f1b7f00fa5c31f70fb38e4e7587e735ad6b818c43f972298",
     "size": 253988,
@@ -2580,8 +2544,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.docx": {
-    "sha256": "79c67380b1c7712a5f995256f4b6edc65ba1dfd9657e9c139b34d0f1890ba15b",
-    "size": 177549,
+    "sha256": "28b3299d38a13b17d790aedb96708818acaef107517080b2027f976ac21d77ad",
+    "size": 169850,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.docx",
@@ -2592,8 +2556,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.pdf": {
-    "sha256": "0e432e52006858deb67f05f45f210389f17bb95df5544017acbe3574c2920293",
-    "size": 490517,
+    "sha256": "218008ff4eff3e4502556468c26942e2e10c2e5f09fdb90cf9a264b78e8dce4d",
+    "size": 293107,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.pdf",
@@ -2999,6 +2963,18 @@
     "final_url": "https://www.faa.gov/sites/faa.gov/files/2022-09/AD_Biweekly_Search_Guide_for_DRS.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/airworthiness_directives/"
   },
+  "https://www.faa.gov/regulations_policies/pilot_records_database/PRD-DisablingInactiveUserAccounts.pdf": {
+    "sha256": "3dc17b60c376bc3abb58bdd6e0e35b84e299ae74f701df77689932d08916c64f",
+    "size": 178177,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/PRD-DisablingInactiveUserAccounts.pdf",
+    "filename": "PRD-DisablingInactiveUserAccounts.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/regulations_policies/pilot_records_database/PRD-DisablingInactiveUserAccounts.pdf",
+    "discovered_from": "https://www.faa.gov/regulations_policies/pilot_records_database/"
+  },
   "https://www.faa.gov/regulations_policies/pilot_records_database/PRD-RegistrationPilot.pdf": {
     "sha256": "205e1488d3a88e646d9a18f11bdcea9f82195ed290b7bf2b4ec5c7e39a847c19",
     "size": 196549,
@@ -3237,6 +3213,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/sites/faa.gov/files/space/legislation_regulation_guidance/mou_space_launch_accidents.pdf",
+    "discovered_from": "https://www.faa.gov/space/legislation_regulation_guidance/"
+  },
+  "https://www.faa.gov/space/legislation_regulation_guidance/WFF-Notice-of-Determination-Federal-Services-Revised.pdf": {
+    "sha256": "61f0da9b10a68044acec2e5a42213a6505e2946f73917fae094c1f9a0087fa1a",
+    "size": 378416,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/WFF-Notice-of-Determination-Federal-Services-Revised.pdf",
+    "filename": "WFF-Notice-of-Determination-Federal-Services-Revised.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/space/legislation_regulation_guidance/WFF-Notice-of-Determination-Federal-Services-Revised.pdf",
     "discovered_from": "https://www.faa.gov/space/legislation_regulation_guidance/"
   },
   "https://www.faa.gov/sites/faa.gov/files/space/legislation_regulation_guidance/treaty_Princi_Gov_Acti_States_OST.pdf": {
@@ -3696,8 +3684,8 @@
     "discovered_from": "https://www.faa.gov/space/compliance_enforcement_mishap"
   },
   "https://www.faa.gov/space/human_spaceflight/HSF-Safety-Record-Data.pdf": {
-    "sha256": "3932e314c2c324741ffc69aa0872202580eb99173e34792df88cb47db5568f4c",
-    "size": 117268,
+    "sha256": "bde715f81b1e8249d190bd02932d156542c49f2b706da5b7daba36b981e90214",
+    "size": 118961,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/HSF-Safety-Record-Data.pdf",
@@ -3707,52 +3695,16 @@
     "final_url": "https://www.faa.gov/space/human_spaceflight/HSF-Safety-Record-Data.pdf",
     "discovered_from": "https://www.faa.gov/space/human_spaceflight"
   },
-  "https://www.faa.gov/air-taxis/MCO_HITL_90_day_Report_Feb2026.pdf": {
-    "sha256": "5d429f8a10483f0a5fd15846ccd5eaf5c5e20fce565249739151ef4a8b6bc588",
-    "size": 1757494,
+  "https://www.faa.gov/newsroom/eIPP-Announcement-Fact-Sheet.pdf": {
+    "sha256": "f2799181e836ab052ddaf73fe45dbc91591ef27c8cdc8eb7f3eaef41ada20193",
+    "size": 282639,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/MCO_HITL_90_day_Report_Feb2026.pdf",
-    "filename": "MCO_HITL_90_day_Report_Feb2026.pdf",
+    "local_path": "_downloads/FAA Handbooks/eIPP-Announcement-Fact-Sheet.pdf",
+    "filename": "eIPP-Announcement-Fact-Sheet.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/air-taxis/MCO_HITL_90_day_Report_Feb2026.pdf",
-    "discovered_from": "https://www.faa.gov/air-taxis"
-  },
-  "https://www.faa.gov/air-taxis/LAX_HITL_90_Day_Report_Feb2026.pdf": {
-    "sha256": "36a460744e39e39d95beddf186ec05c84fdfc39d35896789fc2471333c1a25f5",
-    "size": 811107,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/LAX_HITL_90_Day_Report_Feb2026.pdf",
-    "filename": "LAX_HITL_90_Day_Report_Feb2026.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/air-taxis/LAX_HITL_90_Day_Report_Feb2026.pdf",
-    "discovered_from": "https://www.faa.gov/air-taxis"
-  },
-  "https://www.faa.gov/air-taxis/NAA-Network-Roadmap-Advanced-AirMobility-Aircraft-Type-Certification-Edition-April2025.pdf": {
-    "sha256": "9f4dc185fe8c53e719f100fb3eda7db379ccd1fc0421c2b664dacb04c8ef9119",
-    "size": 6141940,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/NAA-Network-Roadmap-Advanced-AirMobility-Aircraft-Type-Certification-Edition-April2025.pdf",
-    "filename": "NAA-Network-Roadmap-Advanced-AirMobility-Aircraft-Type-Certification-Edition-April2025.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/air-taxis/NAA-Network-Roadmap-Advanced-AirMobility-Aircraft-Type-Certification-Edition-April2025.pdf",
-    "discovered_from": "https://www.faa.gov/air-taxis"
-  },
-  "https://www.faa.gov/air-taxis/NAA-Network-AAM-DOI-signed-by-CASA-TCCA-NZCAA-UKCAA-FAA-APR2025.pdf": {
-    "sha256": "1fe2141df8605f26dd2db2479aebcf4d1eaac6b5b572471f1dc58977d5f9b925",
-    "size": 341253,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/NAA-Network-AAM-DOI-signed-by-CASA-TCCA-NZCAA-UKCAA-FAA-APR2025.pdf",
-    "filename": "NAA-Network-AAM-DOI-signed-by-CASA-TCCA-NZCAA-UKCAA-FAA-APR2025.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/air-taxis/NAA-Network-AAM-DOI-signed-by-CASA-TCCA-NZCAA-UKCAA-FAA-APR2025.pdf",
+    "final_url": "https://www.faa.gov/newsroom/eIPP-Announcement-Fact-Sheet.pdf",
     "discovered_from": "https://www.faa.gov/air-taxis"
   },
   "https://www.faa.gov/sites/faa.gov/files/UAS_how_to_label_Infographic.pdf": {
@@ -6923,6 +6875,30 @@
     "final_url": "https://www.lycoming.com/sites/default/files/file/2024-02/SSP-875-2.pdf",
     "discovered_from": "https://www.lycoming.com/warranty"
   },
+  "https://www.lycoming.com/sites/default/files/file/2026-10/SB639A%20Rocker%20Arm%20Inspection.pdf": {
+    "sha256": "cb6c6bce4dadc41b761c47c297dae39d52e381b6c0a83767fd4b190b70cb4bec",
+    "size": 707408,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/SB639A%20Rocker%20Arm%20Inspection.pdf",
+    "filename": "SB639A%20Rocker%20Arm%20Inspection.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-10/SB639A%20Rocker%20Arm%20Inspection.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-639"
+  },
+  "https://www.lycoming.com/sites/default/files/file/2026-10/PC-TIO-540-AK1A%20Rev%202_compressed%20%281%29.pdf": {
+    "sha256": "b9c9a19f5c0e1de7a07997569ece09deefd572af0074883f3e5776b49de3becb",
+    "size": 1417221,
+    "group": "Lycoming",
+    "manual_type": "Engine Publication",
+    "local_path": "_downloads/Lycoming/PC-TIO-540-AK1A%20Rev%202_compressed%20%281%29.pdf",
+    "filename": "PC-TIO-540-AK1A%20Rev%202_compressed%20%281%29.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-10/PC-TIO-540-AK1A%20Rev%202_compressed%20%281%29.pdf",
+    "discovered_from": "https://www.lycoming.com/publications/tio-540-ak1a-illustrated-parts-catalog-rev-2"
+  },
   "https://www.lycoming.com/sites/default/files/file/2026-09/SB671A%20Reprint%20of%20HET%20ASB%20No.%20233_compressed%20%281%29.pdf": {
     "sha256": "75acaf70755feeb6bc9cddd0d725c5c99786343721b4d0d0c305e6aa0b12c581",
     "size": 756930,
@@ -7138,30 +7114,6 @@
     "status": "ok",
     "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SI1597%20Cylinder%20Head%20Cracking.pdf",
     "discovered_from": "https://www.lycoming.com/publications/service-instruction-no-1597"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-05/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf": {
-    "sha256": "647cd518920cbcd6a83c9fefab18756767a95b0f092d87e5615313ab8408a435",
-    "size": 1789027,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "filename": "SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-05/SB640%20Reprint%20Slick%20Champion%20SB2-19B.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/service-bulletin-no-640"
-  },
-  "https://www.lycoming.com/sites/default/files/file/2026-03/PC-IO-360-B4A%20Rev%201.pdf": {
-    "sha256": "716e26c054a9289cb41fcccfce03e2837ab574d630a8152c06cc6bbae6a6bbdd",
-    "size": 1552969,
-    "group": "Lycoming",
-    "manual_type": "Engine Publication",
-    "local_path": "_downloads/Lycoming/PC-IO-360-B4A%20Rev%201.pdf",
-    "filename": "PC-IO-360-B4A%20Rev%201.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.lycoming.com/sites/default/files/file/2026-03/PC-IO-360-B4A%20Rev%201.pdf",
-    "discovered_from": "https://www.lycoming.com/publications/io-360-b4a-illustrated-parts-catalog-rev-1"
   },
   "https://www.lycoming.com/sites/default/files/file/2023-05/Privacy%20Notice%20-%20Lycoming%202023.pdf": {
     "sha256": "e98580f5452c66b65f341784a74a4e935d02da9e0f3bbef64c99308b3cd9d601",
@@ -7848,8 +7800,8 @@
     "discovered_from": "https://hartzellprop.com/faq/kitplane-questions/"
   },
   "https://hartzellprop.com/EXP-AIRCRAFT/Man-193-Vol-01.pdf": {
-    "sha256": "a5223994f4c8a60f2674fca85597af6991391876866d81b6a60bce540b8a2cad",
-    "size": 307501,
+    "sha256": "3c1b6600388914b38f36b70792550e2397bec6c051aa5ec65d2a07281f8ba156",
+    "size": 319990,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Man-193-Vol-01.pdf",
