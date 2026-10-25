@@ -815,16 +815,16 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_3120.4S_AdminUpdate_VP_--Correct_Updated_Version-Dec_6.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf": {
-    "sha256": "4ccfe5d365afd33cfdee0e7d8421d08ae5c4f872015a0d1a2cca8b9384b85382",
-    "size": 808007,
+  "https://www.faa.gov/documentLibrary/media/Order/2026-10-09_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL.pdf": {
+    "sha256": "dcb3f6c0d19d5464c315e596a1f1a778d22c7155b7b74782adc12574c2cbd9dc",
+    "size": 792333,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
-    "filename": "2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
+    "local_path": "_downloads/FAA Handbooks/2026-10-09_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL.pdf",
+    "filename": "2026-10-09_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/2026-10-07_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL_FOR_VP_SIG.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/2026-10-09_Order_JO_3120.29D_Flight_Deck_Training_Program_FDT_FINAL.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/JO_3400_20.pdf": {
@@ -1403,6 +1403,18 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
+  "https://www.faa.gov/documentLibrary/media/Order/7340.2R_CNT_Bsc_dtd_10-29-26_Final.pdf": {
+    "sha256": "c4b0a552bdd0441d237367a048d164c9d949c916aefdf5164493aeb4588f2c1f",
+    "size": 12446050,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/7340.2R_CNT_Bsc_dtd_10-29-26_Final.pdf",
+    "filename": "7340.2R_CNT_Bsc_dtd_10-29-26_Final.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2R_CNT_Bsc_dtd_10-29-26_Final.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
   "https://www.faa.gov/documentLibrary/media/Order/2023-12-18_Order_JO_7350.9GG_Location_Identifiers_FOR_DIR_SIG.pdf": {
     "sha256": "98b00d028e10f5920c485cc5f8ac94227f323954a4ec57c803ce24d0d6999efb",
     "size": 499650,
@@ -1653,6 +1665,18 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/7930.2U_Chg_2_dtd_9_30_26_Final.pdf",
+    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
+  },
+  "https://www.faa.gov/air_traffic/publications/media/atpb_oct_2026.pdf": {
+    "sha256": "59e3c05f29b6133cd9d173c68f1314227badbef654b6e37632fe0507e9e09fd3",
+    "size": 997671,
+    "group": "FAA Handbooks",
+    "manual_type": "Pilot Handbook",
+    "local_path": "_downloads/FAA Handbooks/atpb_oct_2026.pdf",
+    "filename": "atpb_oct_2026.pdf",
+    "content_type": "application/pdf",
+    "status": "ok",
+    "final_url": "https://www.faa.gov/air_traffic/publications/media/atpb_oct_2026.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/atps_oct_2025.pdf": {
@@ -5783,40 +5807,40 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43.13-1B_w-chg1.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/99861"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf": {
-    "sha256": "bbf4b3fee762f3feb06d720a32eef7a32bc67a651dfa9686ac4db253da14204e",
-    "size": 386700,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-industry.pdf": {
+    "sha256": "2c4db28edc60bd82aa40767048c4c52935564d6617d855bdea8c1cc6b304a98a",
+    "size": 2466052,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
-    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-ac-150-5390-4-Vertical-Flight-industry.pdf",
+    "filename": "draft-ac-150-5390-4-Vertical-Flight-industry.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-industry.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-industry.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf": {
-    "sha256": "40140ab482a70255191232f361fef3ecab48d44de42e80705e83e330c7077287",
-    "size": 408984,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-industry-ltr.pdf": {
+    "sha256": "88b971798b5244f6d49f4bddc617bbb41cbfbad0e55343b51ba0f2ac4f1ab98d",
+    "size": 680012,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
-    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-ac-150-5390-4-Vertical-Flight-industry-ltr.pdf",
+    "filename": "draft-ac-150-5390-4-Vertical-Flight-industry-ltr.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-ind-ltr-rev.pdf",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-industry-ltr.pdf",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
-  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx": {
-    "sha256": "186cd707c98a0feb038591a5e2df6520c35c9ab12aa82b398c5f5991a7b914b2",
-    "size": 33647,
+  "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-Design-comment-matrix.xlsx": {
+    "sha256": "059893420bfcb5f41d3272d6b5c852814d4a780ba4a9f37d4b6f2971fe4255a5",
+    "size": 33782,
     "group": "FAA Advisory Circulars",
     "manual_type": "Advisory Circular",
-    "local_path": "_downloads/FAA Advisory Circulars/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
-    "filename": "draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
+    "local_path": "_downloads/FAA Advisory Circulars/draft-ac-150-5390-4-Vertical-Flight-Design-comment-matrix.xlsx",
+    "filename": "draft-ac-150-5390-4-Vertical-Flight-Design-comment-matrix.xlsx",
     "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-AC-150-5370-12C-Construction-Mgmt-comment-matrix.xlsx",
+    "final_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/draft-ac-150-5390-4-Vertical-Flight-Design-comment-matrix.xlsx",
     "discovered_from": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.drafts/"
   },
   "https://www.vansaircraft.com/wp-content/uploads/2026/01/RV-15-Wing-Kit-Sample-Assembly-Instructions.pdf": {
@@ -7727,21 +7751,21 @@
     "final_url": "https://hartzellprop.com/wp-content/uploads/WarrAllowables-R04.pdf",
     "discovered_from": "https://hartzellprop.com/services/limited-warranty/"
   },
-  "https://hartzellprop.com//SERVICE-DOCUMENTS/FORMS/Warranty-Claim-Form.pdf": {
-    "sha256": "7e042a0de563c927e7fe4c6f1a736741f939a35c964f865ebee407bdd1f1929f",
-    "size": 73225,
+  "https://hartzellprop.com/SERVICE-DOCUMENTS/FORMS/Warranty-Claim-Form.pdf": {
+    "sha256": "bf99c494436b79e447927cc6fe1d06c72cd5ee8b124d40dac7d424485bd3029b",
+    "size": 104304,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Warranty-Claim-Form.pdf",
     "filename": "Warranty-Claim-Form.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://hartzellprop.com//SERVICE-DOCUMENTS/FORMS/Warranty-Claim-Form.pdf",
+    "final_url": "https://hartzellprop.com/SERVICE-DOCUMENTS/FORMS/Warranty-Claim-Form.pdf",
     "discovered_from": "https://hartzellprop.com/services/limited-warranty/"
   },
   "https://hartzellprop.com/wp-content/uploads/DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf": {
-    "sha256": "fb185f73f9908bac5ae050222a9032ad95fe54cd835da346d0d6c609f6bd313c",
-    "size": 70718,
+    "sha256": "d18af49a8ab066292ef4525173ac3a67cd942ed764329b40d3ee6ea14d0146bb",
+    "size": 289548,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/DISCLAIMER-OR-LIMITATION-OF-WARRANTIES.pdf",
@@ -7932,8 +7956,8 @@
     "discovered_from": "https://hartzellprop.com/services/product-support-library/manuals/hartzell-owners-manuals-english/"
   },
   "https://hartzellprop.com/MANUALS/149-0000-A.pdf": {
-    "sha256": "a55dff829affe97d4530d421bf2848950dafaba43cd1864677a774ef8a79eb97",
-    "size": 2275333,
+    "sha256": "fa503773c036c2b83315e00fb0241fea0ec12ac669e849014d0fd44210510aeb",
+    "size": 2810011,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/149-0000-A.pdf",
@@ -8148,8 +8172,8 @@
     "discovered_from": "https://hartzellprop.com/hartzell-field-maintenance-manuals-3"
   },
   "https://hartzellprop.com/MANUALS/170-0000-A.pdf": {
-    "sha256": "ad126dd7ed03b2aab365e7d293fc6cb191b70d532caccd42208061f5bcb06465",
-    "size": 2034483,
+    "sha256": "527ec0e802b31cea816860ad00e2ffa96ebed02cf520fd011255d24f4fac2e62",
+    "size": 2254872,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/170-0000-A.pdf",
@@ -8160,8 +8184,8 @@
     "discovered_from": "https://hartzellprop.com/hartzell-field-maintenance-manuals-3"
   },
   "https://hartzellprop.com/MANUALS/202A-V01-0000-A.pdf": {
-    "sha256": "c1d185073e3e0aa575819d885cbfd2d07e4fb8626228983d26f4e1da079be3df",
-    "size": 2468320,
+    "sha256": "9c6ba415c62a4db1516f52579fa92b08112299ccb35fd0deeae7611913185f95",
+    "size": 2463768,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/202A-V01-0000-A.pdf",
@@ -8220,8 +8244,8 @@
     "discovered_from": "https://hartzellprop.com//services/product-support-library/manuals/application-guide/"
   },
   "https://hartzellprop.com/MANUALS/Revision-Status-Sheet.pdf": {
-    "sha256": "6659f1802124e1762c18de2af1625dde3145472c6716cb1ee149fd51baaebd9c",
-    "size": 141273,
+    "sha256": "c5fb4fd86890692905c9d55b8437c46669d1d4606ddd3e1628775466fbbb095f",
+    "size": 135255,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
     "local_path": "_downloads/Hartzell Propeller/Revision-Status-Sheet.pdf",
@@ -8232,8 +8256,8 @@
     "discovered_from": "https://hartzellprop.com//services/product-support-library/manuals/manual-revision-status-sheet/"
   },
   "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/SB-Index.pdf": {
-    "sha256": "ac00df557a250a61634837c9ff9e9e35ef2eee3203d20e9cc63f2e9db32bd8ab",
-    "size": 440969,
+    "sha256": "2559c80b37cfeb6dc9c23d94e3856fc2d3bb9b6f7eeb98a49ba373c27a25307a",
+    "size": 439760,
     "group": "Hartzell Propeller",
     "manual_type": "Service Document",
     "local_path": "_downloads/Hartzell Propeller/SB-Index.pdf",
@@ -8256,8 +8280,8 @@
     "discovered_from": "https://hartzellprop.com/services/product-support-library/service-documents/service-bulletins/"
   },
   "https://hartzellprop.com/SERVICE-DOCUMENTS/SB/HC-SB-61-411.pdf": {
-    "sha256": "25d580206c419722c89aea1f56f80fc686a6aca028e4978f868379bb0192d5bd",
-    "size": 743050,
+    "sha256": "af15e255f61644a01e5ec8bed35593b01b44adaca91de0b1d656554994eba495",
+    "size": 744448,
     "group": "Hartzell Propeller",
     "manual_type": "Service Document",
     "local_path": "_downloads/Hartzell Propeller/HC-SB-61-411.pdf",
