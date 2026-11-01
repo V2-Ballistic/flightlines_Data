@@ -636,8 +636,8 @@
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/air_traffic/publications/media/202607-ATO-SMS-Manual.pdf": {
-    "sha256": "1c453f577de37df03ce3e47c8ef0ac9da2dc527225218dbfb3c9d8820960a552",
-    "size": 3869625,
+    "sha256": "1312a1619c897c45aad563bf6d0d08dec4e36d79af551df0ba8da13e1c639bd2",
+    "size": 3895876,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/202607-ATO-SMS-Manual.pdf",
@@ -1151,18 +1151,6 @@
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_JO_7200.21A_Partnership_for_Safety_(PFS)_Program.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
-  "https://www.faa.gov/documentLibrary/media/Order/Order_JO_7200.23D_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL.pdf": {
-    "sha256": "911c8d423d5ef69eead5dd6fef2732f16cc5b0765c5c43c8334e9eec01db5e9e",
-    "size": 1008446,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/Order_JO_7200.23D_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL.pdf",
-    "filename": "Order_JO_7200.23D_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/Order_JO_7200.23D_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
   "https://www.faa.gov/documentLibrary/media/Order/2026-09-22_Order_JO_7200.23E_Processing_of_Unmanned_Aircraft_Systems_Requests_FINAL_v3.pdf": {
     "sha256": "e96b80d7c8e4c1b5b0af81184076c46ff1c01169b74c16fc491494084120f973",
     "size": 1208670,
@@ -1353,54 +1341,6 @@
     "content_type": "application/pdf",
     "status": "ok",
     "final_url": "https://www.faa.gov/documentLibrary/media/Order/2026-08-28_Order_7210.638_Enterprise_Information_Display_System_FINAL.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf": {
-    "sha256": "3ad31433d729dcb22de697a06b66718a64ed525cd2408da47dacbf96bd2583ed",
-    "size": 9285128,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
-    "filename": "7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Bsc_w_Chg_1_2_and_3_dtd_7-9-26_Final.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Order/JO_7340.2P_CHG_1_dtd_11_27_25_Final.pdf": {
-    "sha256": "3569da604fb3b5deeceac2bcc207ea3d1008cd6d7dd892083b79d330d9a4cf30",
-    "size": 23226210,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/JO_7340.2P_CHG_1_dtd_11_27_25_Final.pdf",
-    "filename": "JO_7340.2P_CHG_1_dtd_11_27_25_Final.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/JO_7340.2P_CHG_1_dtd_11_27_25_Final.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_2_dtd_3_19_26.pdf": {
-    "sha256": "668cb4939265746873d4f923e307e125f6cb71c6270cf4da6e698e2745cb7f6b",
-    "size": 6351451,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7340.2P_Chg_2_dtd_3_19_26.pdf",
-    "filename": "7340.2P_Chg_2_dtd_3_19_26.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_2_dtd_3_19_26.pdf",
-    "discovered_from": "https://www.faa.gov/air_traffic/publications/"
-  },
-  "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf": {
-    "sha256": "dc71a8e1c5358c9fa26de8a56e1217327bae50823e4d56a3d0e04c72de37816b",
-    "size": 7260674,
-    "group": "FAA Handbooks",
-    "manual_type": "Pilot Handbook",
-    "local_path": "_downloads/FAA Handbooks/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
-    "filename": "7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://www.faa.gov/documentLibrary/media/Order/7340.2P_Chg_3_dtd_7_9_26_Final_v1.pdf",
     "discovered_from": "https://www.faa.gov/air_traffic/publications/"
   },
   "https://www.faa.gov/documentLibrary/media/Order/7340.2R_CNT_Bsc_dtd_10-29-26_Final.pdf": {
@@ -2568,8 +2508,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.docx": {
-    "sha256": "28b3299d38a13b17d790aedb96708818acaef107517080b2027f976ac21d77ad",
-    "size": 169850,
+    "sha256": "766781551626a7a7fd9c5dff8b32519e8b35c54deca8b598d4c33db4edc8928f",
+    "size": 171492,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.docx",
@@ -2580,8 +2520,8 @@
     "discovered_from": "https://www.faa.gov/pilots"
   },
   "https://www.faa.gov/pilots/medical_certification/media/hims-ames.pdf": {
-    "sha256": "218008ff4eff3e4502556468c26942e2e10c2e5f09fdb90cf9a264b78e8dce4d",
-    "size": 293107,
+    "sha256": "20a94658361055b18b66920a8ae7a83b0b3fa4ee6c95d64795e69cfaa0a78510",
+    "size": 1243132,
     "group": "FAA Handbooks",
     "manual_type": "Pilot Handbook",
     "local_path": "_downloads/FAA Handbooks/hims-ames.pdf",
@@ -7643,28 +7583,16 @@
     "final_url": "https://www.rotax-owner.com/manuals/flydat_control.pdf",
     "discovered_from": "https://www.rotax-owner.com/en/support-topmenu/engine-manuals"
   },
-  "https://hartzellprop.com/wp-content/uploads/Training-Reservation-Form_Digital-1.pdf": {
-    "sha256": "1275ed6588d3d0789c22af3f8f6360b5e57889858af3825b7a384cc1cff0b4e5",
-    "size": 141440,
+  "https://hartzellprop.com/wp-content/uploads/Hartzell-2027-Training-Schedule.pdf": {
+    "sha256": "7a054adf7f3aa3e8527603760ed2c3603c6ac1a012e639bb56e8f2916478829a",
+    "size": 1319434,
     "group": "Hartzell Propeller",
     "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/Training-Reservation-Form_Digital-1.pdf",
-    "filename": "Training-Reservation-Form_Digital-1.pdf",
+    "local_path": "_downloads/Hartzell Propeller/Hartzell-2027-Training-Schedule.pdf",
+    "filename": "Hartzell-2027-Training-Schedule.pdf",
     "content_type": "application/pdf",
     "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/Training-Reservation-Form_Digital-1.pdf",
-    "discovered_from": "https://hartzellprop.com/services/hartzell-training-classes/"
-  },
-  "https://hartzellprop.com/wp-content/uploads/Hartzell-2026-Training-Schedule-1.pdf": {
-    "sha256": "09b358ac6651dc6aa6b6bc2208f5e3b9f83a8a6b9d666bf8ec14bf61418fded7",
-    "size": 630171,
-    "group": "Hartzell Propeller",
-    "manual_type": "Propeller Manual",
-    "local_path": "_downloads/Hartzell Propeller/Hartzell-2026-Training-Schedule-1.pdf",
-    "filename": "Hartzell-2026-Training-Schedule-1.pdf",
-    "content_type": "application/pdf",
-    "status": "ok",
-    "final_url": "https://hartzellprop.com/wp-content/uploads/Hartzell-2026-Training-Schedule-1.pdf",
+    "final_url": "https://hartzellprop.com/wp-content/uploads/Hartzell-2027-Training-Schedule.pdf",
     "discovered_from": "https://hartzellprop.com/services/hartzell-training-classes/"
   },
   "https://hartzellprop.com/SAMPLE-PROGRAM/Coldroll.pdf": {
